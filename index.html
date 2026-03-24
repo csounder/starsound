@@ -261,6 +261,50 @@
         color: #93c5fd;
       }
 
+      .version-selector {
+        display: flex;
+        gap: 15px;
+        justify-content: center;
+        margin-top: 20px;
+        flex-wrap: wrap;
+      }
+
+      .version-btn {
+        padding: 12px 30px;
+        font-size: 1em;
+        background: rgba(96, 165, 250, 0.15);
+        color: #e0e6ff;
+        text-decoration: none;
+        border-radius: 15px;
+        border: 2px solid #60a5fa;
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+        min-width: 140px;
+      }
+
+      .version-btn:hover {
+        background: rgba(96, 165, 250, 0.3);
+        border-color: #93c5fd;
+        transform: translateY(-2px);
+      }
+
+      .version-icon {
+        font-size: 2em;
+      }
+
+      .version-label {
+        font-weight: bold;
+        color: #93c5fd;
+      }
+
+      .version-desc {
+        font-size: 0.85em;
+        color: #cbd5e1;
+      }
+
       @media (max-width: 768px) {
         h1 {
           font-size: 2.5em;
@@ -297,7 +341,32 @@
     <main>
       <!-- CTA Section -->
       <section class="cta-section">
-        <a href="app.html" class="launch-btn">🚀 Launch StarSound</a>
+        <h2 style="font-size: 1.8em; color: #60a5fa; margin-bottom: 20px">
+          Choose Your Version
+        </h2>
+
+        <div class="version-selector">
+          <a href="app-desktop.html" class="version-btn">
+            <div class="version-icon">💻</div>
+            <div class="version-label">Desktop</div>
+            <div class="version-desc">
+              Full controls<br />Keyboard shortcuts
+            </div>
+          </a>
+
+          <a href="app-mobile.html" class="version-btn">
+            <div class="version-icon">📱</div>
+            <div class="version-label">Mobile</div>
+            <div class="version-desc">Touch optimized<br />Swipe gestures</div>
+          </a>
+
+          <a href="app.html" class="version-btn">
+            <div class="version-icon">🌐</div>
+            <div class="version-label">Auto-Detect</div>
+            <div class="version-desc">Responsive<br />Works on all devices</div>
+          </a>
+        </div>
+
         <div class="secondary-links">
           <a href="QUICKSTART.md" class="secondary-btn">📖 Quick Start Guide</a>
           <a href="README.md" class="secondary-btn">📚 Full Documentation</a>
@@ -430,6 +499,33 @@
         star.style.animationDuration = 2 + Math.random() * 3 + "s";
         starfield.appendChild(star);
       }
+
+      // Auto-detect device and highlight recommended version
+      function isMobileDevice() {
+        return (
+          /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+            navigator.userAgent,
+          ) || window.innerWidth <= 768
+        );
+      }
+
+      // Add visual indicator for recommended version
+      window.addEventListener("DOMContentLoaded", () => {
+        const versionBtns = document.querySelectorAll(".version-btn");
+        if (isMobileDevice()) {
+          // Highlight mobile version
+          versionBtns[1].style.background = "rgba(96, 165, 250, 0.3)";
+          versionBtns[1].style.borderColor = "#93c5fd";
+          versionBtns[1].innerHTML +=
+            '<div style="margin-top: 5px; font-size: 0.8em; color: #34d399;">✓ Recommended</div>';
+        } else {
+          // Highlight desktop version
+          versionBtns[0].style.background = "rgba(96, 165, 250, 0.3)";
+          versionBtns[0].style.borderColor = "#93c5fd";
+          versionBtns[0].innerHTML +=
+            '<div style="margin-top: 5px; font-size: 0.8em; color: #34d399;">✓ Recommended</div>';
+        }
+      });
     </script>
   </body>
 </html>

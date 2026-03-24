@@ -2,22 +2,76 @@
 
 Get up and running in **2 minutes**!
 
-## 1️⃣ Launch the App
+## 1️⃣ Choose Your Version
 
-**Option A: Direct Open**
+### **📱 On Mobile/Tablet?**
 
-- Double-click `index.html`
-- Opens in your default browser
+Use the **Mobile Version** (`app-mobile.html`)
 
-**Option B: Online**
+- Touch-optimized interface
+- Gesture controls
+- Collapsible panels that don't block the stars
+
+### **💻 On Desktop/Laptop?**
+
+Use the **Desktop Version** (`app-desktop.html`)
+
+- Full keyboard shortcuts
+- Both control panels visible
+- Mouse and keyboard navigation
+
+### **🌐 Not Sure?**
+
+Use the **Auto-Detect Version** (`app.html`)
+
+- Works on any device
+- Automatically adapts to your screen
+
+## 2️⃣ Launch the App
+
+**Option A: Online (Easiest)**
 
 - Visit: https://starsound.netlify.app
+- Click your version (desktop/mobile/auto)
 
-## 2️⃣ Start Audio (Required!)
+**Option B: Direct Open**
+
+- Double-click appropriate file
+- `app-mobile.html` for mobile
+- `app-desktop.html` for desktop
+- `app.html` for auto-detect
+
+## 3️⃣ Start Audio (Required!)
 
 1. Click the big **"▶ Start Audio Engine"** button
 2. Wait for "Audio running" message
 3. You're ready to make sound!
+
+## 📱 Mobile Controls (Touch Version)
+
+### **Show/Hide Controls**
+
+- **⚙️ Button** (top-left) - Audio & sonification controls
+- **🎛️ Button** (top-right) - Sound & instrument controls
+- **Swipe from edge** - Open left/right panels
+- **3-finger tap** - Hide all controls
+- **Tap middle** - Close panels
+
+### **First Time on Mobile?**
+
+A help screen will appear showing all gestures. If you miss it:
+
+- Panels start hidden (full screen for stars!)
+- Tap ⚙️ or 🎛️ buttons to access controls
+- Swipe from left/right edges works too
+
+## 💻 Desktop Controls (Keyboard Version)
+
+### **Show/Hide Controls**
+
+- **ESC key** - Toggle both control panels
+- Panels visible by default
+- Use keyboard shortcuts anytime
 
 ## 3️⃣ Make Your First Sound
 
@@ -91,7 +145,7 @@ Get up and running in **2 minutes**!
 - Discovers wild new combinations
 - Try it 10 times in a row for sonic exploration!
 
-## ⌨️ Essential Keyboard Shortcuts
+## ⌨️ Essential Keyboard Shortcuts (Desktop Version)
 
 | Key     | Action                      |
 | ------- | --------------------------- |
@@ -104,6 +158,18 @@ Get up and running in **2 minutes**!
 | `3`     | Constellation Patterns mode |
 | `X`     | **Randomize all settings**  |
 | `ESC`   | Hide/show control panels    |
+
+## 👆 Mobile Touch Gestures (Mobile Version)
+
+| Gesture          | Action                             |
+| ---------------- | ---------------------------------- |
+| Tap ⚙️ button    | Toggle audio/sonification controls |
+| Tap 🎛️ button    | Toggle sound/instrument controls   |
+| Swipe from left  | Open left panel (audio controls)   |
+| Swipe from right | Open right panel (sound controls)  |
+| 3-finger tap     | Hide all controls (full screen)    |
+| Tap middle       | Close any open panels              |
+| Pinch/spread     | Zoom in/out (future feature)       |
 
 ## 🎛️ Key Controls to Adjust
 

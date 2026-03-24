@@ -64,24 +64,63 @@ Transform the night sky into sound. Dr.C - StarSound is an astronomical sonifica
 
 ## 🚀 Quick Start
 
-### **Option 1: Open Directly (Recommended)**
+### **Choose Your Version**
 
-1. Download `index.html`
-2. Double-click to open in your web browser
+Dr.C - StarSound comes in **3 versions** to optimize your experience:
+
+#### **💻 Desktop Version** (`app-desktop.html`)
+
+- **Best for**: Laptop/desktop computers
+- **Features**: Full control panels visible, keyboard shortcuts, dual-panel layout
+- **Controls**: ESC to hide/show panels, all keyboard shortcuts work
+- **Recommended if**: Using mouse/keyboard on large screen
+
+#### **📱 Mobile Version** (`app-mobile.html`)
+
+- **Best for**: Phones and tablets
+- **Features**: Touch-optimized, gesture controls, collapsible panels
+- **Controls**:
+  - Tap ⚙️ button (top-left) for audio/sonification controls
+  - Tap 🎛️ button (top-right) for sound/instrument controls
+  - Swipe from edges to open panels
+  - 3-finger tap to hide all controls
+  - Tap middle of screen to close panels
+- **Recommended if**: Using touchscreen on phone/tablet
+
+#### **🌐 Auto-Detect Version** (`app.html`)
+
+- **Best for**: Any device (responsive)
+- **Features**: Automatically adapts to screen size
+- **Controls**: Combines both desktop and mobile controls
+- **Recommended if**: Unsure which device you'll use
+
+### **How to Launch**
+
+#### **Option 1: Online (Easiest)**
+
+Visit: **[https://starsound.netlify.app](https://starsound.netlify.app)**
+
+- Click your preferred version button
+- Auto-detect recommends best version for your device
+
+#### **Option 2: Download & Open**
+
+1. Download the appropriate version:
+   - Desktop: `app-desktop.html`
+   - Mobile: `app-mobile.html`
+   - Auto: `app.html`
+2. Double-click to open in browser
 3. Click **"▶ Start Audio Engine"**
 4. Start exploring!
 
-### **Option 2: Run from GitHub Pages**
-
-Visit: **[https://csounder.github.io/starsound](https://csounder.github.io/starsound)** _(coming soon)_
-
-### **Option 3: Local Server**
+#### **Option 3: Local Server**
 
 ```bash
 # Python 3
 python -m http.server 8000
 
-# Then open: http://localhost:8000
+# Open: http://localhost:8000
+# Then choose your version from landing page
 ```
 
 ## 🎮 How to Use
