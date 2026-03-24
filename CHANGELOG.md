@@ -2,6 +2,58 @@
 
 All notable changes to Dr.C - StarSound will be documented in this file.
 
+## [1.1.0] - 2026-03-24
+
+### 📱 Mobile & Desktop Optimized Versions
+
+#### **New Versions**
+
+- **Desktop Version** (`app-desktop.html`) - Optimized for laptop/desktop with full keyboard control
+- **Mobile Version** (`app-mobile.html`) - Touch-optimized with gesture controls
+- **Auto-Detect Version** (`app.html`) - Responsive version that adapts to device
+
+#### **Mobile Features**
+
+- Toggle buttons (⚙️ 🎛️) always visible on mobile screens
+- Collapsible control panels (hidden by default for full screen stars)
+- Touch gestures:
+  - Swipe from left/right edges to open panels
+  - 3-finger tap to hide all controls
+  - Tap outside to close panels
+- Mobile help overlay on first visit
+- Touch-friendly button sizes and fonts
+
+#### **Desktop Features**
+
+- Both control panels visible by default
+- All keyboard shortcuts work (M, S, R, Space, 1-3, X, ESC)
+- Optimized for mouse and keyboard navigation
+- No touch gesture controls needed
+
+#### **Landing Page**
+
+- Version selector with 3 options
+- Auto-detection recommends best version for device
+- Visual indicators for recommended version
+- Direct links to all versions
+
+#### **Documentation**
+
+- Updated README.md with version comparison
+- Updated QUICKSTART.md with mobile vs desktop instructions
+- New VERSIONS.md - Complete guide to all 3 versions
+- Mobile touch gesture reference
+- Desktop keyboard shortcut reference
+
+#### **Technical**
+
+- Responsive CSS media queries for mobile/tablet/desktop
+- Touch event handlers for gestures
+- Device detection (user agent + screen width)
+- Local storage for mobile help overlay (show once)
+
+---
+
 ## [1.0.0] - 2026-03-24
 
 ### 🎉 Initial Release
