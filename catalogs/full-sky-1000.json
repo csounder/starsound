@@ -1,0 +1,5922 @@
+[
+  {
+    "name": "Sirius",
+    "ra": 0.2813333333333333,
+    "dec": 0.4071333333333333,
+    "mag": -1.46,
+    "temp": 9940,
+    "brightness": 0.646
+  },
+  {
+    "name": "Canopus",
+    "ra": 0.266625,
+    "dec": 0.20724444444444445,
+    "mag": -0.74,
+    "temp": 7350,
+    "brightness": 0.5740000000000001
+  },
+  {
+    "name": "Arcturus",
+    "ra": 0.5942083333333333,
+    "dec": 0.6065666666666667,
+    "mag": -0.05,
+    "temp": 4290,
+    "brightness": 0.505
+  },
+  {
+    "name": "Alpha Centauri A",
+    "ra": 0.610875,
+    "dec": 0.16202777777777777,
+    "mag": -0.01,
+    "temp": 5790,
+    "brightness": 0.501
+  },
+  {
+    "name": "Vega",
+    "ra": 0.7756249999999999,
+    "dec": 0.7154611111111112,
+    "mag": 0.03,
+    "temp": 9602,
+    "brightness": 0.497
+  },
+  {
+    "name": "Capella",
+    "ra": 0.21991666666666665,
+    "dec": 0.7555444444444444,
+    "mag": 0.08,
+    "temp": 5220,
+    "brightness": 0.492
+  },
+  {
+    "name": "Rigel",
+    "ra": 0.21841666666666668,
+    "dec": 0.45443333333333336,
+    "mag": 0.13,
+    "temp": 11000,
+    "brightness": 0.487
+  },
+  {
+    "name": "Procyon",
+    "ra": 0.31895833333333334,
+    "dec": 0.5290277777777778,
+    "mag": 0.34,
+    "temp": 6530,
+    "brightness": 0.466
+  },
+  {
+    "name": "Betelgeuse",
+    "ra": 0.24662499999999998,
+    "dec": 0.54115,
+    "mag": 0.5,
+    "temp": 3500,
+    "brightness": 0.45
+  },
+  {
+    "name": "Achernar",
+    "ra": 0.067875,
+    "dec": 0.18201666666666666,
+    "mag": 0.46,
+    "temp": 15000,
+    "brightness": 0.454
+  },
+  {
+    "name": "Hadar",
+    "ra": 0.5859583333333334,
+    "dec": 0.16459444444444446,
+    "mag": 0.61,
+    "temp": 25000,
+    "brightness": 0.43899999999999995
+  },
+  {
+    "name": "Altair",
+    "ra": 0.8269166666666666,
+    "dec": 0.5492666666666667,
+    "mag": 0.77,
+    "temp": 7550,
+    "brightness": 0.42300000000000004
+  },
+  {
+    "name": "Aldebaran",
+    "ra": 0.19162500000000002,
+    "dec": 0.5917166666666667,
+    "mag": 0.85,
+    "temp": 3910,
+    "brightness": 0.41500000000000004
+  },
+  {
+    "name": "Antares",
+    "ra": 0.6870833333333333,
+    "dec": 0.35315555555555556,
+    "mag": 0.96,
+    "temp": 3570,
+    "brightness": 0.404
+  },
+  {
+    "name": "Spica",
+    "ra": 0.5591666666666667,
+    "dec": 0.43799444444444446,
+    "mag": 0.98,
+    "temp": 22400,
+    "brightness": 0.40199999999999997
+  },
+  {
+    "name": "Pollux",
+    "ra": 0.323125,
+    "dec": 0.6557,
+    "mag": 1.14,
+    "temp": 4666,
+    "brightness": 0.386
+  },
+  {
+    "name": "Fomalhaut",
+    "ra": 0.9567083333333333,
+    "dec": 0.33543333333333336,
+    "mag": 1.16,
+    "temp": 8590,
+    "brightness": 0.384
+  },
+  {
+    "name": "Deneb",
+    "ra": 0.8620833333333334,
+    "dec": 0.7515555555555555,
+    "mag": 1.25,
+    "temp": 8525,
+    "brightness": 0.375
+  },
+  {
+    "name": "Mimosa",
+    "ra": 0.5330833333333334,
+    "dec": 0.16839444444444446,
+    "mag": 1.25,
+    "temp": 24000,
+    "brightness": 0.375
+  },
+  {
+    "name": "Regulus",
+    "ra": 0.4224583333333333,
+    "dec": 0.5664833333333333,
+    "mag": 1.35,
+    "temp": 12460,
+    "brightness": 0.365
+  },
+  {
+    "name": "Mirfak",
+    "ra": 0.141875,
+    "dec": 0.7770055555555555,
+    "mag": 1.79,
+    "temp": 6350,
+    "constellation": "Perseus",
+    "brightness": 0.321
+  },
+  {
+    "name": "Algol",
+    "ra": 0.13029166666666667,
+    "dec": 0.7275277777777777,
+    "mag": 2.1,
+    "temp": 12000,
+    "constellation": "Perseus",
+    "brightness": 0.29
+  },
+  {
+    "name": "Elnath",
+    "ra": 0.22658333333333333,
+    "dec": 0.6589277777777778,
+    "mag": 1.65,
+    "temp": 13600,
+    "constellation": "Taurus",
+    "brightness": 0.335
+  },
+  {
+    "name": "Castor",
+    "ra": 0.3157083333333333,
+    "dec": 0.6771555555555556,
+    "mag": 1.58,
+    "temp": 10286,
+    "constellation": "Gemini",
+    "brightness": 0.34199999999999997
+  },
+  {
+    "name": "Acubens",
+    "ra": 0.36083333333333334,
+    "dec": 0.5658888888888889,
+    "mag": 4.3,
+    "temp": 10000,
+    "constellation": "Cancer",
+    "brightness": 0.07000000000000002
+  },
+  {
+    "name": "Denebola",
+    "ra": 0.49241666666666667,
+    "dec": 0.5809555555555556,
+    "mag": 2.14,
+    "temp": 8200,
+    "constellation": "Leo",
+    "brightness": 0.286
+  },
+  {
+    "name": "Zubenelschamali",
+    "ra": 0.6367916666666666,
+    "dec": 0.44787777777777776,
+    "mag": 2.61,
+    "temp": 12000,
+    "constellation": "Libra",
+    "brightness": 0.23900000000000002
+  },
+  {
+    "name": "Shaula",
+    "ra": 0.7316666666666666,
+    "dec": 0.29386666666666666,
+    "mag": 1.63,
+    "temp": 25000,
+    "constellation": "Scorpius",
+    "brightness": 0.337
+  },
+  {
+    "name": "Kaus Australis",
+    "ra": 0.7667916666666666,
+    "dec": 0.30897222222222226,
+    "mag": 1.85,
+    "temp": 9913,
+    "constellation": "Sagittarius",
+    "brightness": 0.315
+  },
+  {
+    "name": "Deneb Algedi",
+    "ra": 0.9069583333333333,
+    "dec": 0.4104055555555556,
+    "mag": 2.81,
+    "temp": 5100,
+    "constellation": "Capricornus",
+    "brightness": 0.219
+  },
+  {
+    "name": "Sadalmelik",
+    "ra": 0.9207083333333334,
+    "dec": 0.49822222222222223,
+    "mag": 2.94,
+    "temp": 7410,
+    "constellation": "Aquarius",
+    "brightness": 0.20600000000000002
+  },
+  {
+    "name": "Alrescha",
+    "ra": 0.08429166666666667,
+    "dec": 0.5153555555555556,
+    "mag": 3.62,
+    "temp": 8750,
+    "constellation": "Pisces",
+    "brightness": 0.13799999999999998
+  },
+  {
+    "name": "Hamal",
+    "ra": 0.08829166666666667,
+    "dec": 0.6303444444444445,
+    "mag": 2.0,
+    "temp": 4480,
+    "constellation": "Aries",
+    "brightness": 0.3
+  },
+  {
+    "name": "Diphda",
+    "ra": 0.03025,
+    "dec": 0.4000722222222223,
+    "mag": 2.04,
+    "temp": 4797,
+    "constellation": "Cetus",
+    "brightness": 0.296
+  },
+  {
+    "name": "Polaris",
+    "ra": 0.10541666666666666,
+    "dec": 0.9959111111111112,
+    "mag": 1.98,
+    "temp": 6015,
+    "constellation": "Ursa Minor",
+    "brightness": 0.302
+  },
+  {
+    "name": "Dubhe",
+    "ra": 0.46091666666666664,
+    "dec": 0.8430611111111111,
+    "mag": 1.79,
+    "temp": 4660,
+    "constellation": "Ursa Major",
+    "brightness": 0.321
+  },
+  {
+    "name": "Merak",
+    "ra": 0.459625,
+    "dec": 0.813238888888889,
+    "mag": 2.37,
+    "temp": 10000,
+    "constellation": "Ursa Major",
+    "brightness": 0.263
+  },
+  {
+    "name": "Alkaid",
+    "ra": 0.5746666666666667,
+    "dec": 0.7739611111111111,
+    "mag": 1.86,
+    "temp": 15540,
+    "constellation": "Ursa Major",
+    "brightness": 0.31399999999999995
+  },
+  {
+    "name": "Alioth",
+    "ra": 0.5375,
+    "dec": 0.8108888888888889,
+    "mag": 1.76,
+    "temp": 9340,
+    "constellation": "Ursa Major",
+    "brightness": 0.324
+  },
+  {
+    "name": "Mizar",
+    "ra": 0.55825,
+    "dec": 0.805138888888889,
+    "mag": 2.09,
+    "temp": 9000,
+    "constellation": "Ursa Major",
+    "brightness": 0.29100000000000004
+  },
+  {
+    "name": "Schedar",
+    "ra": 0.028125,
+    "dec": 0.8140944444444445,
+    "mag": 2.24,
+    "temp": 5000,
+    "constellation": "Cassiopeia",
+    "brightness": 0.27599999999999997
+  },
+  {
+    "name": "Caph",
+    "ra": 0.09608333333333334,
+    "dec": 0.8286111111111112,
+    "mag": 2.3,
+    "temp": 6300,
+    "constellation": "Cassiopeia",
+    "brightness": 0.27
+  },
+  {
+    "name": "Alhena",
+    "ra": 0.27616666666666667,
+    "dec": 0.5911055555555556,
+    "mag": 1.93,
+    "temp": 9260,
+    "constellation": "Gemini",
+    "brightness": 0.30700000000000005
+  },
+  {
+    "name": "Miaplacidus",
+    "ra": 0.3842083333333333,
+    "dec": 0.11268333333333334,
+    "mag": 1.68,
+    "temp": 8866,
+    "constellation": "Carina",
+    "brightness": 0.332
+  },
+  {
+    "name": "Avior",
+    "ra": 0.3489583333333333,
+    "dec": 0.16939444444444443,
+    "mag": 1.86,
+    "temp": 4050,
+    "constellation": "Carina",
+    "brightness": 0.31399999999999995
+  },
+  {
+    "name": "Acrux",
+    "ra": 0.5184583333333334,
+    "dec": 0.14945000000000003,
+    "mag": 0.77,
+    "temp": 28000,
+    "constellation": "Crux",
+    "brightness": 0.42300000000000004
+  },
+  {
+    "name": "Atria",
+    "ra": 0.7004583333333333,
+    "dec": 0.11651111111111108,
+    "mag": 1.91,
+    "temp": 4150,
+    "constellation": "Triangulum Australe",
+    "brightness": 0.309
+  },
+  {
+    "name": "Peacock",
+    "ra": 0.8511666666666667,
+    "dec": 0.18480555555555556,
+    "mag": 1.94,
+    "temp": 17200,
+    "constellation": "Pavo",
+    "brightness": 0.306
+  },
+  {
+    "name": "Alnair",
+    "ra": 0.9223750000000001,
+    "dec": 0.23910555555555557,
+    "mag": 1.74,
+    "temp": 13920,
+    "constellation": "Grus",
+    "brightness": 0.32599999999999996
+  },
+  {
+    "name": "Orion_Star_0_227",
+    "ra": 0.22783228211158857,
+    "dec": 0.38093695344820055,
+    "mag": 2.6029515388688336,
+    "temp": 11000,
+    "brightness": 0.23970484611311665,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_1_203",
+    "ra": 0.2031788857008586,
+    "dec": 0.2574093852361015,
+    "mag": 3.6596158702220563,
+    "temp": 3900,
+    "brightness": 0.13403841297779437,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_2_190",
+    "ra": 0.19061648814938845,
+    "dec": 0.33327525918198064,
+    "mag": 3.830755560628261,
+    "temp": 25000,
+    "brightness": 0.1169244439371739,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_3_205",
+    "ra": 0.20585370088245275,
+    "dec": 0.41398959310794325,
+    "mag": 1.9563538863935201,
+    "temp": 11000,
+    "brightness": 0.30436461136064796,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_4_225",
+    "ra": 0.2253032763281722,
+    "dec": 0.3609401478768245,
+    "mag": 4.227258032590139,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_5_194",
+    "ra": 0.19402935718824682,
+    "dec": 0.3386209606510137,
+    "mag": 5.408926159897591,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_6_207",
+    "ra": 0.2076856200186021,
+    "dec": 0.3058246939357777,
+    "mag": 2.9189284252201397,
+    "temp": 18000,
+    "brightness": 0.20810715747798603,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_7_203",
+    "ra": 0.20342986178675837,
+    "dec": 0.37330317453641576,
+    "mag": 2.4968834353458504,
+    "temp": 6500,
+    "brightness": 0.250311656465415,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_8_202",
+    "ra": 0.20280269447160937,
+    "dec": 0.35704714073188476,
+    "mag": 2.6876369278423797,
+    "temp": 25000,
+    "brightness": 0.23123630721576202,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_9_227",
+    "ra": 0.2278838017722028,
+    "dec": 0.2681961638567079,
+    "mag": 1.623005708788042,
+    "temp": 11000,
+    "brightness": 0.33769942912119577,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_10_191",
+    "ra": 0.19179221582586187,
+    "dec": 0.3437163202643924,
+    "mag": 2.343492141088443,
+    "temp": 3900,
+    "brightness": 0.2656507858911557,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_11_201",
+    "ra": 0.2011690776984275,
+    "dec": 0.27982283087107324,
+    "mag": 2.6621173238224234,
+    "temp": 7500,
+    "brightness": 0.23378826761775767,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_12_219",
+    "ra": 0.21957666527783032,
+    "dec": 0.3714577391220768,
+    "mag": 2.751903234834315,
+    "temp": 4500,
+    "brightness": 0.2248096765165685,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_13_221",
+    "ra": 0.22186490526808,
+    "dec": 0.385698455524652,
+    "mag": 2.65389361424995,
+    "temp": 13000,
+    "brightness": 0.234610638575005,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_14_209",
+    "ra": 0.20939962341249616,
+    "dec": 0.3238928834955259,
+    "mag": 2.031643500031654,
+    "temp": 4500,
+    "brightness": 0.2968356499968346,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_15_223",
+    "ra": 0.2232337469583593,
+    "dec": 0.2880367731773411,
+    "mag": 5.291888916527043,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_16_214",
+    "ra": 0.21424253610467922,
+    "dec": 0.4469778436296882,
+    "mag": 4.167914900027371,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_17_219",
+    "ra": 0.21912509535931424,
+    "dec": 0.395425603722408,
+    "mag": 3.0881486303860433,
+    "temp": 6500,
+    "brightness": 0.19118513696139566,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_18_233",
+    "ra": 0.23373364562427448,
+    "dec": 0.40370376647663364,
+    "mag": 3.1137566961498115,
+    "temp": 15000,
+    "brightness": 0.18862433038501886,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_19_232",
+    "ra": 0.23279660057690324,
+    "dec": 0.3265860350041388,
+    "mag": 4.308879531519035,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_20_215",
+    "ra": 0.2150531756623583,
+    "dec": 0.3134499863518201,
+    "mag": 3.315971196841526,
+    "temp": 11000,
+    "brightness": 0.1684028803158474,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_21_208",
+    "ra": 0.20851416384567664,
+    "dec": 0.2543858274183297,
+    "mag": 3.86818254374737,
+    "temp": 25000,
+    "brightness": 0.11318174562526302,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_22_205",
+    "ra": 0.20545838209886463,
+    "dec": 0.29358271881329023,
+    "mag": 3.5370578614232056,
+    "temp": 15000,
+    "brightness": 0.14629421385767943,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_23_217",
+    "ra": 0.21763190825055806,
+    "dec": 0.4344849099024889,
+    "mag": 2.38603405579269,
+    "temp": 7500,
+    "brightness": 0.261396594420731,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_24_232",
+    "ra": 0.23297198831228624,
+    "dec": 0.33718706773441287,
+    "mag": 3.6256896169946606,
+    "temp": 6500,
+    "brightness": 0.13743103830053394,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_25_197",
+    "ra": 0.1975100687727841,
+    "dec": 0.3933022794000111,
+    "mag": 2.771280916931661,
+    "temp": 7500,
+    "brightness": 0.22287190830683393,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_26_217",
+    "ra": 0.21740669324028408,
+    "dec": 0.2651250985784289,
+    "mag": 3.1454701636396525,
+    "temp": 9500,
+    "brightness": 0.18545298363603474,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_27_233",
+    "ra": 0.23330060028093857,
+    "dec": 0.31603282351889384,
+    "mag": 4.458437885804022,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_28_218",
+    "ra": 0.21881428814699774,
+    "dec": 0.34245777711365083,
+    "mag": 3.218327166114786,
+    "temp": 8500,
+    "brightness": 0.17816728338852142,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_29_228",
+    "ra": 0.2288823284641423,
+    "dec": 0.30568648605856347,
+    "mag": 4.483352232712766,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_30_206",
+    "ra": 0.20621164219273502,
+    "dec": 0.4034762568107552,
+    "mag": 2.1721525395711616,
+    "temp": 15000,
+    "brightness": 0.28278474604288384,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_31_228",
+    "ra": 0.2280217588888529,
+    "dec": 0.3374714235796846,
+    "mag": 4.619663795556931,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_32_192",
+    "ra": 0.192945133475999,
+    "dec": 0.3533465281690651,
+    "mag": 4.084444972950411,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_33_229",
+    "ra": 0.22926577224101174,
+    "dec": 0.3388381024535576,
+    "mag": 2.3108309735782893,
+    "temp": 25000,
+    "brightness": 0.26891690264217105,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_34_200",
+    "ra": 0.20025585813719188,
+    "dec": 0.3643400131629215,
+    "mag": 2.1413824307867335,
+    "temp": 11000,
+    "brightness": 0.28586175692132665,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_35_239",
+    "ra": 0.23959396298123828,
+    "dec": 0.40177635553086555,
+    "mag": 6,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_36_208",
+    "ra": 0.2083770885374471,
+    "dec": 0.34264819956555354,
+    "mag": 3.4912384397549805,
+    "temp": 8500,
+    "brightness": 0.15087615602450194,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_37_199",
+    "ra": 0.19959346940904357,
+    "dec": 0.3229065927205816,
+    "mag": 2.2139749587339725,
+    "temp": 6500,
+    "brightness": 0.27860250412660276,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_38_198",
+    "ra": 0.1984393770100008,
+    "dec": 0.3159998443024792,
+    "mag": 5.09291450404352,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_39_232",
+    "ra": 0.23281580625491954,
+    "dec": 0.2698630236475146,
+    "mag": 4.155432112552674,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_40_220",
+    "ra": 0.2202399885128905,
+    "dec": 0.4175299291714719,
+    "mag": 5.213628797649342,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_41_211",
+    "ra": 0.21170384287535127,
+    "dec": 0.33796789214204687,
+    "mag": 3.291607007773868,
+    "temp": 5300,
+    "brightness": 0.17083929922261318,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_42_199",
+    "ra": 0.19993462263040676,
+    "dec": 0.3446952257274478,
+    "mag": 5.353767909122188,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_43_202",
+    "ra": 0.20260334154066245,
+    "dec": 0.3922884771276872,
+    "mag": 5.174437633415022,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_44_231",
+    "ra": 0.2311047449144687,
+    "dec": 0.43327751900668576,
+    "mag": 3.512558874705843,
+    "temp": 25000,
+    "brightness": 0.1487441125294157,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_45_197",
+    "ra": 0.19779321220845694,
+    "dec": 0.31351344415952986,
+    "mag": 3.823723668768059,
+    "temp": 11000,
+    "brightness": 0.1176276331231941,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_46_201",
+    "ra": 0.20153694002247624,
+    "dec": 0.32480218648737635,
+    "mag": 5.579167352028223,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_47_221",
+    "ra": 0.22169766802620833,
+    "dec": 0.25325510035658144,
+    "mag": 2.224154282923239,
+    "temp": 15000,
+    "brightness": 0.2775845717076761,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_48_216",
+    "ra": 0.21696734438056609,
+    "dec": 0.3928903884919596,
+    "mag": 3.0065278014285175,
+    "temp": 8500,
+    "brightness": 0.19934721985714826,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_49_230",
+    "ra": 0.23096613869687455,
+    "dec": 0.2570887113010004,
+    "mag": 3.5443054527083313,
+    "temp": 11000,
+    "brightness": 0.14556945472916688,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_50_228",
+    "ra": 0.22874856650251468,
+    "dec": 0.2943467462096783,
+    "mag": 1.2051530387506926,
+    "temp": 15000,
+    "brightness": 0.37948469612493074,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_51_190",
+    "ra": 0.1905532210973345,
+    "dec": 0.2813627231430261,
+    "mag": 1.9821456547663683,
+    "temp": 15000,
+    "brightness": 0.30178543452336315,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_52_222",
+    "ra": 0.22222755600047384,
+    "dec": 0.3048300600582029,
+    "mag": 2.094097932890425,
+    "temp": 7500,
+    "brightness": 0.2905902067109575,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_53_193",
+    "ra": 0.19346656027127654,
+    "dec": 0.300742251099779,
+    "mag": 4.1829099956754785,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_54_207",
+    "ra": 0.2075583016647981,
+    "dec": 0.43617802585257404,
+    "mag": 3.686339424168701,
+    "temp": 5300,
+    "brightness": 0.1313660575831299,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_55_198",
+    "ra": 0.19848028332382994,
+    "dec": 0.3061742410223838,
+    "mag": 6,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_56_238",
+    "ra": 0.23862329846076763,
+    "dec": 0.35971941202288554,
+    "mag": 1.088502750020882,
+    "temp": 8500,
+    "brightness": 0.3911497249979118,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_57_196",
+    "ra": 0.19605413575655187,
+    "dec": 0.41180452925805056,
+    "mag": 4.525983552503236,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_58_193",
+    "ra": 0.19359268397939078,
+    "dec": 0.3047162931399639,
+    "mag": 5.492676549987651,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_59_218",
+    "ra": 0.21868801040700006,
+    "dec": 0.25743661706230436,
+    "mag": 4.916011976859609,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_60_197",
+    "ra": 0.19739892130296266,
+    "dec": 0.36850634421017037,
+    "mag": 3.9619155584215564,
+    "temp": 13000,
+    "brightness": 0.10380844415784436,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_61_231",
+    "ra": 0.23197999963416518,
+    "dec": 0.29967565123502127,
+    "mag": 3.254922682169652,
+    "temp": 8500,
+    "brightness": 0.1745077317830348,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_62_194",
+    "ra": 0.19420580665339557,
+    "dec": 0.36968192932948973,
+    "mag": 3.8946619769114164,
+    "temp": 25000,
+    "brightness": 0.11053380230885837,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_63_196",
+    "ra": 0.1961603858306975,
+    "dec": 0.35654518015476405,
+    "mag": 4.572241945211008,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_64_199",
+    "ra": 0.19925942081977652,
+    "dec": 0.2656068378556904,
+    "mag": 3.2941360046038515,
+    "temp": 3900,
+    "brightness": 0.17058639953961485,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_65_238",
+    "ra": 0.2389367622760516,
+    "dec": 0.3717229103503165,
+    "mag": 1.343856851030905,
+    "temp": 7500,
+    "brightness": 0.3656143148969095,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_66_223",
+    "ra": 0.22380777817329628,
+    "dec": 0.2654665661312095,
+    "mag": 4.6887660847248345,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_67_237",
+    "ra": 0.23735606770653794,
+    "dec": 0.4171412805652832,
+    "mag": 2.4006798512465233,
+    "temp": 7500,
+    "brightness": 0.2599320148753477,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_68_192",
+    "ra": 0.19291037329703153,
+    "dec": 0.29448799292432787,
+    "mag": 4.771495181783008,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_69_212",
+    "ra": 0.21288950958144168,
+    "dec": 0.4475079375690061,
+    "mag": 4.139514185459959,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_70_210",
+    "ra": 0.21032419534138735,
+    "dec": 0.3895019020364723,
+    "mag": 2.966611575514606,
+    "temp": 11000,
+    "brightness": 0.2033388424485394,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_71_218",
+    "ra": 0.21825723773477015,
+    "dec": 0.4112120201109433,
+    "mag": 3.262209103148033,
+    "temp": 18000,
+    "brightness": 0.17377908968519667,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Orion_Star_72_215",
+    "ra": 0.2153821980290436,
+    "dec": 0.3623604951710707,
+    "mag": 2.8500291712192456,
+    "temp": 25000,
+    "brightness": 0.21499708287807545,
+    "constellation": "Orion"
+  },
+  {
+    "name": "Perseus_Star_0_148",
+    "ra": 0.14898861443585762,
+    "dec": 0.8094821181716962,
+    "mag": 2.3876026075217096,
+    "temp": 3500,
+    "brightness": 0.26123973924782906,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_1_151",
+    "ra": 0.15104613830563093,
+    "dec": 0.6513357109091026,
+    "mag": 3.1652844778592897,
+    "temp": 25000,
+    "brightness": 0.18347155221407102,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_2_150",
+    "ra": 0.15084137556456,
+    "dec": 0.6255700279111086,
+    "mag": 2.100493728488191,
+    "temp": 13000,
+    "brightness": 0.2899506271511809,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_3_143",
+    "ra": 0.1435197186906731,
+    "dec": 0.6598857178648193,
+    "mag": 3.935343162511937,
+    "temp": 5300,
+    "brightness": 0.10646568374880631,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_4_172",
+    "ra": 0.172448919451814,
+    "dec": 0.8442938955133403,
+    "mag": 3.423661406248113,
+    "temp": 5300,
+    "brightness": 0.1576338593751887,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_5_116",
+    "ra": 0.1164462220466463,
+    "dec": 0.8175916473014302,
+    "mag": 2.5529585079321846,
+    "temp": 3900,
+    "brightness": 0.24470414920678155,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_6_148",
+    "ra": 0.14809804914121993,
+    "dec": 0.815615932758007,
+    "mag": 1.9511266751689433,
+    "temp": 4500,
+    "brightness": 0.3048873324831057,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_7_132",
+    "ra": 0.13208045079727787,
+    "dec": 0.8219123440233058,
+    "mag": 2.2756580627081853,
+    "temp": 4500,
+    "brightness": 0.2724341937291815,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_8_175",
+    "ra": 0.17512541235966517,
+    "dec": 0.7514447668664475,
+    "mag": 4.348560174430879,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_9_114",
+    "ra": 0.11447592267898489,
+    "dec": 0.7202746349742831,
+    "mag": 1.2762500834070454,
+    "temp": 25000,
+    "brightness": 0.37237499165929544,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_10_156",
+    "ra": 0.1567470346601489,
+    "dec": 0.8462205655996051,
+    "mag": 3.296322216503445,
+    "temp": 5300,
+    "brightness": 0.1703677783496555,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_11_107",
+    "ra": 0.10737203418030103,
+    "dec": 0.8476083813395792,
+    "mag": 2.839923415880674,
+    "temp": 6500,
+    "brightness": 0.2160076584119326,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_12_166",
+    "ra": 0.16606857807958086,
+    "dec": 0.7289127100379784,
+    "mag": 3.133898949397783,
+    "temp": 5300,
+    "brightness": 0.18661010506022171,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_13_176",
+    "ra": 0.17690097165971858,
+    "dec": 0.6328281729716886,
+    "mag": 0.7609048649175261,
+    "temp": 18000,
+    "brightness": 0.4239095135082474,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_14_139",
+    "ra": 0.1397469798134735,
+    "dec": 0.6925993523378221,
+    "mag": 3.4873770760126526,
+    "temp": 11000,
+    "brightness": 0.15126229239873473,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_15_107",
+    "ra": 0.10781393809840624,
+    "dec": 0.655064498289244,
+    "mag": 0,
+    "temp": 6500,
+    "brightness": 0.5,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_16_136",
+    "ra": 0.1361874630138386,
+    "dec": 0.6683950024326105,
+    "mag": 3.629073856992151,
+    "temp": 6500,
+    "brightness": 0.1370926143007849,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_17_132",
+    "ra": 0.13210616003189454,
+    "dec": 0.7756288865414118,
+    "mag": 3.6789900262235253,
+    "temp": 3500,
+    "brightness": 0.13210099737764747,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_18_166",
+    "ra": 0.16638351882934074,
+    "dec": 0.6990501628662968,
+    "mag": 4.426345164182247,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_19_144",
+    "ra": 0.14485611050919375,
+    "dec": 0.6547331349819041,
+    "mag": 3.8423730960077043,
+    "temp": 8500,
+    "brightness": 0.11576269039922957,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_20_171",
+    "ra": 0.17105138084073995,
+    "dec": 0.7077742510534197,
+    "mag": 2.9591102425467026,
+    "temp": 11000,
+    "brightness": 0.20408897574532975,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_21_118",
+    "ra": 0.11829763674614832,
+    "dec": 0.7982762326836137,
+    "mag": 4.751829731042685,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_22_146",
+    "ra": 0.1466662542030038,
+    "dec": 0.6773751082668897,
+    "mag": 3.5830280386861424,
+    "temp": 4500,
+    "brightness": 0.14169719613138576,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_23_173",
+    "ra": 0.17343280377543152,
+    "dec": 0.7967301672485375,
+    "mag": 2.6089408979057667,
+    "temp": 9500,
+    "brightness": 0.23910591020942334,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_24_151",
+    "ra": 0.15162499284157394,
+    "dec": 0.7363718463191402,
+    "mag": 4.1515484265984846,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_25_145",
+    "ra": 0.145736673474446,
+    "dec": 0.719410488648287,
+    "mag": 3.532683989698508,
+    "temp": 3500,
+    "brightness": 0.1467316010301492,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_26_121",
+    "ra": 0.12103669596403237,
+    "dec": 0.6825125435233514,
+    "mag": 2.319973756444595,
+    "temp": 4500,
+    "brightness": 0.2680026243555405,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_27_112",
+    "ra": 0.11267590203934372,
+    "dec": 0.7878312485477145,
+    "mag": 3.2777516558840216,
+    "temp": 9500,
+    "brightness": 0.17222483441159783,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_28_135",
+    "ra": 0.1359669766092368,
+    "dec": 0.8075644815021454,
+    "mag": 4.437813599559185,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_29_137",
+    "ra": 0.13786419393402147,
+    "dec": 0.7885469119960651,
+    "mag": 1.6912443169029676,
+    "temp": 6500,
+    "brightness": 0.3308755683097032,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_30_100",
+    "ra": 0.10064428546870433,
+    "dec": 0.823520149867843,
+    "mag": 4.5173098301854955,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_31_145",
+    "ra": 0.14574031907379598,
+    "dec": 0.6212907643250365,
+    "mag": 4.180937510050864,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_32_170",
+    "ra": 0.17049790494251976,
+    "dec": 0.8028987692219233,
+    "mag": 3.19904428293089,
+    "temp": 11000,
+    "brightness": 0.18009557170691098,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_33_153",
+    "ra": 0.15329886347721455,
+    "dec": 0.6252836492732079,
+    "mag": 2.8552832215631243,
+    "temp": 13000,
+    "brightness": 0.21447167784368756,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_34_106",
+    "ra": 0.10670331701883025,
+    "dec": 0.7088662485249181,
+    "mag": 2.708786106347153,
+    "temp": 7500,
+    "brightness": 0.22912138936528467,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_35_100",
+    "ra": 0.10029219101160344,
+    "dec": 0.842687163280831,
+    "mag": 3.5596355548536014,
+    "temp": 4500,
+    "brightness": 0.14403644451463987,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_36_131",
+    "ra": 0.13111907780329013,
+    "dec": 0.6589780214547025,
+    "mag": 2.8275478795707554,
+    "temp": 25000,
+    "brightness": 0.21724521204292446,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_37_118",
+    "ra": 0.11812224314435892,
+    "dec": 0.7308671119849981,
+    "mag": 3.343471333795647,
+    "temp": 9500,
+    "brightness": 0.16565286662043527,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_38_150",
+    "ra": 0.1508073436228641,
+    "dec": 0.6646885986382526,
+    "mag": 3.2994915168706904,
+    "temp": 6500,
+    "brightness": 0.17005084831293096,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_39_138",
+    "ra": 0.13824946102392527,
+    "dec": 0.6998453610377959,
+    "mag": 1.9605170305064974,
+    "temp": 5300,
+    "brightness": 0.30394829694935027,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_40_102",
+    "ra": 0.10287782353958536,
+    "dec": 0.7748126917746726,
+    "mag": 5.682044288017459,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_41_105",
+    "ra": 0.10560082495957886,
+    "dec": 0.7343389344852025,
+    "mag": 2.877176425827607,
+    "temp": 15000,
+    "brightness": 0.2122823574172393,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_42_102",
+    "ra": 0.10295296656712999,
+    "dec": 0.8234710806259568,
+    "mag": 2.1831015803277536,
+    "temp": 6500,
+    "brightness": 0.28168984196722463,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_43_122",
+    "ra": 0.12239846204456571,
+    "dec": 0.7263451474864492,
+    "mag": 3.780280501915545,
+    "temp": 3500,
+    "brightness": 0.1219719498084455,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_44_161",
+    "ra": 0.16130172250070396,
+    "dec": 0.8342201227289087,
+    "mag": 5.6102132060755565,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_45_179",
+    "ra": 0.1793670152044541,
+    "dec": 0.7768365251789887,
+    "mag": 3.4485257860618077,
+    "temp": 8500,
+    "brightness": 0.15514742139381923,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_46_132",
+    "ra": 0.13291988436987234,
+    "dec": 0.731663250902073,
+    "mag": 3.484841129462687,
+    "temp": 3900,
+    "brightness": 0.15151588705373129,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_47_135",
+    "ra": 0.13505484803067028,
+    "dec": 0.653572569859425,
+    "mag": 2.949474022856197,
+    "temp": 6500,
+    "brightness": 0.2050525977143803,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_48_112",
+    "ra": 0.11262986146500495,
+    "dec": 0.779484822174308,
+    "mag": 3.5799275968023174,
+    "temp": 18000,
+    "brightness": 0.14200724031976825,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_49_118",
+    "ra": 0.11813545049456006,
+    "dec": 0.6041796985031735,
+    "mag": 4.678529872783245,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_50_162",
+    "ra": 0.1622579681696985,
+    "dec": 0.8054599121430408,
+    "mag": 4.43148519442841,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_51_119",
+    "ra": 0.11985393061686003,
+    "dec": 0.6507546103212125,
+    "mag": 2.891611753063839,
+    "temp": 15000,
+    "brightness": 0.2108388246936161,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_52_133",
+    "ra": 0.13380587360850021,
+    "dec": 0.6678079436531307,
+    "mag": 4.8794359484392675,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_53_176",
+    "ra": 0.1764242727466943,
+    "dec": 0.7376093111026221,
+    "mag": 4.110894805632313,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_54_104",
+    "ra": 0.104602900189363,
+    "dec": 0.7233322902260146,
+    "mag": 4.639207558689301,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_55_107",
+    "ra": 0.10735815395709936,
+    "dec": 0.7656694727326772,
+    "mag": 4.161139344955876,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_56_151",
+    "ra": 0.15134409468472967,
+    "dec": 0.7533408433910312,
+    "mag": 3.5225518266097637,
+    "temp": 9500,
+    "brightness": 0.14774481733902362,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_57_123",
+    "ra": 0.1239939869656933,
+    "dec": 0.8012955970584325,
+    "mag": 3.6818511547300306,
+    "temp": 9500,
+    "brightness": 0.13181488452699694,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_58_100",
+    "ra": 0.10048775031891014,
+    "dec": 0.6641108205741404,
+    "mag": 4.550067474581811,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_59_132",
+    "ra": 0.13265576318903669,
+    "dec": 0.7740797823626432,
+    "mag": 2.785072993502559,
+    "temp": 15000,
+    "brightness": 0.2214927006497441,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_60_135",
+    "ra": 0.13599794392353576,
+    "dec": 0.8201356558093384,
+    "mag": 5.367580334444365,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_61_108",
+    "ra": 0.10883105630135163,
+    "dec": 0.728747076932491,
+    "mag": 3.8631754559835336,
+    "temp": 25000,
+    "brightness": 0.11368245440164663,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_62_127",
+    "ra": 0.12775382201620455,
+    "dec": 0.6031644594742954,
+    "mag": 1.52895868809257,
+    "temp": 5300,
+    "brightness": 0.347104131190743,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_63_134",
+    "ra": 0.13429416132995567,
+    "dec": 0.7775303006721803,
+    "mag": 4.331003737789375,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_64_167",
+    "ra": 0.1674838084780987,
+    "dec": 0.7044158898891668,
+    "mag": 3.256090029658199,
+    "temp": 9500,
+    "brightness": 0.1743909970341801,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_65_130",
+    "ra": 0.1307159508963781,
+    "dec": 0.7865665000552712,
+    "mag": 2.4380150627424846,
+    "temp": 3900,
+    "brightness": 0.25619849372575154,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Perseus_Star_66_148",
+    "ra": 0.14879620952060307,
+    "dec": 0.8366792783948259,
+    "mag": 1.4590810584279819,
+    "temp": 18000,
+    "brightness": 0.3540918941572018,
+    "constellation": "Perseus"
+  },
+  {
+    "name": "Cassiopeia_Star_0_138",
+    "ra": 0.1381794008625942,
+    "dec": 0.7038781987434513,
+    "mag": 1.6664958776027388,
+    "temp": 13000,
+    "brightness": 0.3333504122397261,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_1_146",
+    "ra": 0.14662583166740242,
+    "dec": 0.7756611582629035,
+    "mag": 4.517897738087956,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_2_99",
+    "ra": 0.09949042434269323,
+    "dec": 0.7277090262717077,
+    "mag": 5.148236907370161,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_3_52",
+    "ra": 0.05233369412443276,
+    "dec": 0.7384100288593771,
+    "mag": 1.2951081355355445,
+    "temp": 6500,
+    "brightness": 0.3704891864464456,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_4_51",
+    "ra": 0.05189800492051426,
+    "dec": 0.8833215275556321,
+    "mag": 0.9617357650106961,
+    "temp": 15000,
+    "brightness": 0.40382642349893044,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_5_104",
+    "ra": 0.1040465306105222,
+    "dec": 0.7923374378824992,
+    "mag": 4.069530140403398,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_6_6",
+    "ra": 0.006253079581686571,
+    "dec": 0.7429661840042622,
+    "mag": 4.343605709951182,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_7_70",
+    "ra": 0.07097518006962916,
+    "dec": 0.8114139806431916,
+    "mag": 3.6295524257852194,
+    "temp": 9500,
+    "brightness": 0.13704475742147806,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_8_98",
+    "ra": 0.09870495966583877,
+    "dec": 0.7947291504779977,
+    "mag": 3.988221944153639,
+    "temp": 9500,
+    "brightness": 0.1011778055846361,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_9_41",
+    "ra": 0.04125567574658984,
+    "dec": 0.8775798954484466,
+    "mag": 3.2306389736461205,
+    "temp": 6500,
+    "brightness": 0.17693610263538795,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_10_90",
+    "ra": 0.09024941680549728,
+    "dec": 0.7943812597164497,
+    "mag": 3.420033812643507,
+    "temp": 3500,
+    "brightness": 0.15799661873564932,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_11_62",
+    "ra": 0.06220878845032732,
+    "dec": 0.8490882303491694,
+    "mag": 4.468434971034782,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_12_119",
+    "ra": 0.11904044860724014,
+    "dec": 0.7887516232596743,
+    "mag": 3.0718577879083826,
+    "temp": 25000,
+    "brightness": 0.19281422120916175,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_13_93",
+    "ra": 0.09377084078228537,
+    "dec": 0.7324510711345938,
+    "mag": 3.4745822496561884,
+    "temp": 8500,
+    "brightness": 0.15254177503438116,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_14_66",
+    "ra": 0.06620596943625114,
+    "dec": 0.7434584468002319,
+    "mag": 1.508101566075706,
+    "temp": 18000,
+    "brightness": 0.34918984339242937,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_15_81",
+    "ra": 0.08120063062738865,
+    "dec": 0.715329269481743,
+    "mag": 4.548879604822675,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_16_10",
+    "ra": 0.010678226998786094,
+    "dec": 0.7658828381103414,
+    "mag": 4.334371741281142,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_17_27",
+    "ra": 0.027735163969238395,
+    "dec": 0.8768096547650053,
+    "mag": 4.159704556721607,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_18_145",
+    "ra": 0.14593786527245908,
+    "dec": 0.8386863485945754,
+    "mag": 3.5907480728216177,
+    "temp": 25000,
+    "brightness": 0.14092519271783824,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_19_1",
+    "ra": 0.0010404609158651268,
+    "dec": 0.7877656971145777,
+    "mag": 1.7386385471161427,
+    "temp": 13000,
+    "brightness": 0.32613614528838575,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_20_112",
+    "ra": 0.11216434023836154,
+    "dec": 0.806282132483741,
+    "mag": 2.4454345801187367,
+    "temp": 15000,
+    "brightness": 0.25545654198812634,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_21_120",
+    "ra": 0.120162340065479,
+    "dec": 0.751919144477674,
+    "mag": 3.0066358630751777,
+    "temp": 13000,
+    "brightness": 0.19933641369248223,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_22_144",
+    "ra": 0.14437522971019912,
+    "dec": 0.7743098845920258,
+    "mag": 3.4291645094442234,
+    "temp": 9500,
+    "brightness": 0.15708354905557767,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_23_68",
+    "ra": 0.06831224121084473,
+    "dec": 0.7881946266303141,
+    "mag": 2.0126347524349537,
+    "temp": 25000,
+    "brightness": 0.29873652475650464,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_24_78",
+    "ra": 0.07800390957127387,
+    "dec": 0.8638857737683279,
+    "mag": 1.6149175902099098,
+    "temp": 7500,
+    "brightness": 0.33850824097900906,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_25_10",
+    "ra": 0.01055962102475778,
+    "dec": 0.8587767466987404,
+    "mag": 3.5158007948259087,
+    "temp": 11000,
+    "brightness": 0.14841992051740913,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_26_51",
+    "ra": 0.0511242022816589,
+    "dec": 0.8603590587135724,
+    "mag": 3.682384489939163,
+    "temp": 3900,
+    "brightness": 0.13176155100608372,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_27_144",
+    "ra": 0.1444920593540878,
+    "dec": 0.8720455867861946,
+    "mag": 4.253579226464741,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_28_3",
+    "ra": 0.003216890728698102,
+    "dec": 0.8977895183422979,
+    "mag": 0,
+    "temp": 5300,
+    "brightness": 0.5,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_29_69",
+    "ra": 0.06948038512220618,
+    "dec": 0.7966949961840688,
+    "mag": 4.244000514460328,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_30_5",
+    "ra": 0.005894631913828424,
+    "dec": 0.7459951549047747,
+    "mag": 4.050847610141046,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_31_11",
+    "ra": 0.011729145743458269,
+    "dec": 0.7577796485957641,
+    "mag": 2.5656509994876564,
+    "temp": 3500,
+    "brightness": 0.24343490005123436,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_32_88",
+    "ra": 0.08832992209703121,
+    "dec": 0.7534789774850211,
+    "mag": 5.029408940994579,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_33_8",
+    "ra": 0.008886065992696434,
+    "dec": 0.7893119505430711,
+    "mag": 3.4249294711535443,
+    "temp": 4500,
+    "brightness": 0.15750705288464556,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_34_91",
+    "ra": 0.09176041044406448,
+    "dec": 0.8247358531586235,
+    "mag": 4.30813447599238,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_35_130",
+    "ra": 0.1302854784692688,
+    "dec": 0.7764074933174571,
+    "mag": 3.1613191945272874,
+    "temp": 25000,
+    "brightness": 0.18386808054727127,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_36_1",
+    "ra": 0.0011748538853830813,
+    "dec": 0.8691487769756981,
+    "mag": 3.164724594654197,
+    "temp": 8500,
+    "brightness": 0.18352754053458029,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_37_89",
+    "ra": 0.08985969846724966,
+    "dec": 0.8420557792132286,
+    "mag": 4.760118289481628,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_38_75",
+    "ra": 0.07571538251584096,
+    "dec": 0.7130723893404429,
+    "mag": 5.3215207832251945,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_39_59",
+    "ra": 0.05945289019428686,
+    "dec": 0.8143514753203169,
+    "mag": 4.486338304218955,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_40_28",
+    "ra": 0.028813435579055517,
+    "dec": 0.8870064390047723,
+    "mag": 4.200256050019102,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_41_61",
+    "ra": 0.061222354402035814,
+    "dec": 0.8313194836756378,
+    "mag": 4.962181299018881,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_42_141",
+    "ra": 0.14102577374968028,
+    "dec": 0.7209474871823469,
+    "mag": 6,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_43_78",
+    "ra": 0.07880754238841131,
+    "dec": 0.7126352783416784,
+    "mag": 6,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_44_0",
+    "ra": 0.00026231603324375905,
+    "dec": 0.8457033202165571,
+    "mag": 1.945054235710956,
+    "temp": 25000,
+    "brightness": 0.30549457642890443,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_45_87",
+    "ra": 0.08771142726051853,
+    "dec": 0.8100800624498988,
+    "mag": 3.0784316422163527,
+    "temp": 18000,
+    "brightness": 0.19215683577836473,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_46_122",
+    "ra": 0.12280311854227706,
+    "dec": 0.8290875078452629,
+    "mag": 1.1858396987157538,
+    "temp": 25000,
+    "brightness": 0.3814160301284246,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_47_56",
+    "ra": 0.05615246692701781,
+    "dec": 0.783290834137396,
+    "mag": 4.849742973510624,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_48_29",
+    "ra": 0.029805333816628653,
+    "dec": 0.7510769365784048,
+    "mag": 3.5378561490996185,
+    "temp": 8500,
+    "brightness": 0.14621438509003815,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_49_147",
+    "ra": 0.14762682711891276,
+    "dec": 0.7531707874925626,
+    "mag": 5.150780965363431,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_50_133",
+    "ra": 0.13302182490620518,
+    "dec": 0.7634850774838912,
+    "mag": 2.0893178556601253,
+    "temp": 6500,
+    "brightness": 0.29106821443398745,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_51_99",
+    "ra": 0.09969060745680351,
+    "dec": 0.806557832207635,
+    "mag": 2.14068128692257,
+    "temp": 5300,
+    "brightness": 0.285931871307743,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_52_146",
+    "ra": 0.14624175873493003,
+    "dec": 0.7715063034422642,
+    "mag": 2.586261163245035,
+    "temp": 9500,
+    "brightness": 0.24137388367549648,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_53_104",
+    "ra": 0.10443101534735046,
+    "dec": 0.8346468473504522,
+    "mag": 5.282455951992755,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_54_12",
+    "ra": 0.012744504977538939,
+    "dec": 0.7737215880887179,
+    "mag": 3.3504696850757996,
+    "temp": 9500,
+    "brightness": 0.16495303149242005,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_55_146",
+    "ra": 0.14684712021494464,
+    "dec": 0.861136916045034,
+    "mag": 5.2174830463666915,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_56_19",
+    "ra": 0.019023886702587693,
+    "dec": 0.7142552905966834,
+    "mag": 4.218313180963723,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_57_101",
+    "ra": 0.10102105440032423,
+    "dec": 0.7023073689026234,
+    "mag": 4.2050425441217145,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_58_12",
+    "ra": 0.012291241125077424,
+    "dec": 0.7701477280181537,
+    "mag": 4.27617706580361,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_59_64",
+    "ra": 0.06410610056276915,
+    "dec": 0.7869776982276105,
+    "mag": 3.2616908833917795,
+    "temp": 6500,
+    "brightness": 0.17383091166082204,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_60_31",
+    "ra": 0.031290809511210146,
+    "dec": 0.879101801373027,
+    "mag": 2.943819309380661,
+    "temp": 9500,
+    "brightness": 0.2056180690619339,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cassiopeia_Star_61_125",
+    "ra": 0.1256829081006576,
+    "dec": 0.8199384970482785,
+    "mag": 5.354867727095961,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Cassiopeia"
+  },
+  {
+    "name": "Cygnus_Star_0_865",
+    "ra": 0.8656947866538793,
+    "dec": 0.6733917422291269,
+    "mag": 3.164526556383242,
+    "temp": 7500,
+    "brightness": 0.1835473443616758,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_1_872",
+    "ra": 0.8723562105659634,
+    "dec": 0.7267863653166148,
+    "mag": 3.486435691231357,
+    "temp": 13000,
+    "brightness": 0.1513564308768643,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_2_872",
+    "ra": 0.8729079661195959,
+    "dec": 0.6549861683468075,
+    "mag": 4.914882995557088,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_3_853",
+    "ra": 0.8537161158081814,
+    "dec": 0.807941309958137,
+    "mag": 1.2275910262118441,
+    "temp": 3900,
+    "brightness": 0.3772408973788156,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_4_842",
+    "ra": 0.8424135512735315,
+    "dec": 0.7830086577291895,
+    "mag": 4.502337967621003,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_5_788",
+    "ra": 0.7886529527782845,
+    "dec": 0.6467116729195621,
+    "mag": 3.1497560659335346,
+    "temp": 11000,
+    "brightness": 0.18502439340664653,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_6_809",
+    "ra": 0.8094604793314681,
+    "dec": 0.6736327098326034,
+    "mag": 3.8640686597121148,
+    "temp": 3900,
+    "brightness": 0.11359313402878853,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_7_855",
+    "ra": 0.8553770161819232,
+    "dec": 0.6425104723328063,
+    "mag": 1.97377537746812,
+    "temp": 15000,
+    "brightness": 0.302622462253188,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_8_855",
+    "ra": 0.855493248302207,
+    "dec": 0.837526783776076,
+    "mag": 4.121176962954317,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_9_851",
+    "ra": 0.8517389749185417,
+    "dec": 0.6345641568437521,
+    "mag": 2.2782542399661736,
+    "temp": 25000,
+    "brightness": 0.27217457600338263,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_10_856",
+    "ra": 0.8562510448477249,
+    "dec": 0.6261732093562955,
+    "mag": 4.2492605765743185,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_11_858",
+    "ra": 0.8588240774280369,
+    "dec": 0.7285728246611556,
+    "mag": 3.7315170259113803,
+    "temp": 3900,
+    "brightness": 0.12684829740886197,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_12_846",
+    "ra": 0.8468995249214822,
+    "dec": 0.8295886076965473,
+    "mag": 4.7935250843777775,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_13_862",
+    "ra": 0.8628278964377452,
+    "dec": 0.7620961653149677,
+    "mag": 2.3364308436148935,
+    "temp": 11000,
+    "brightness": 0.26635691563851066,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_14_837",
+    "ra": 0.8375188598067765,
+    "dec": 0.6582369482903702,
+    "mag": 3.3907158696319906,
+    "temp": 5300,
+    "brightness": 0.16092841303680094,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_15_864",
+    "ra": 0.864679276700129,
+    "dec": 0.8456292584491805,
+    "mag": 5.1283916052882565,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_16_832",
+    "ra": 0.8325283797410691,
+    "dec": 0.620617773561879,
+    "mag": 4.462312697035463,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_17_851",
+    "ra": 0.8518596015934955,
+    "dec": 0.7378038968100568,
+    "mag": 2.707174780763225,
+    "temp": 3500,
+    "brightness": 0.2292825219236775,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_18_814",
+    "ra": 0.8148550662159473,
+    "dec": 0.8203437193800025,
+    "mag": 4.254418515094512,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_19_854",
+    "ra": 0.854164903154294,
+    "dec": 0.7573383913188863,
+    "mag": 3.6802392657492433,
+    "temp": 18000,
+    "brightness": 0.13197607342507567,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_20_868",
+    "ra": 0.8685613252071498,
+    "dec": 0.7227092987990701,
+    "mag": 5.115337325973221,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_21_781",
+    "ra": 0.7813480948011076,
+    "dec": 0.7240346797475371,
+    "mag": 3.8365668472085943,
+    "temp": 3900,
+    "brightness": 0.11634331527914057,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_22_840",
+    "ra": 0.8409406368186323,
+    "dec": 0.8417062085792753,
+    "mag": 3.172411896118686,
+    "temp": 15000,
+    "brightness": 0.1827588103881314,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_23_805",
+    "ra": 0.805018943364114,
+    "dec": 0.7603355044928659,
+    "mag": 2.069712262998079,
+    "temp": 3500,
+    "brightness": 0.2930287737001921,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_24_870",
+    "ra": 0.870544416490442,
+    "dec": 0.7105263237123977,
+    "mag": 2.0649497121700495,
+    "temp": 13000,
+    "brightness": 0.29350502878299506,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_25_814",
+    "ra": 0.8144604490361669,
+    "dec": 0.7624033311676791,
+    "mag": 1.0916498544775015,
+    "temp": 8500,
+    "brightness": 0.39083501455224984,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_26_865",
+    "ra": 0.8654243921942504,
+    "dec": 0.7127673310137767,
+    "mag": 4.356330334268694,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_27_820",
+    "ra": 0.8206918098390387,
+    "dec": 0.6881417102617658,
+    "mag": 1.281501789543709,
+    "temp": 4500,
+    "brightness": 0.3718498210456291,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_28_780",
+    "ra": 0.7800047890139358,
+    "dec": 0.6424404888706592,
+    "mag": 0,
+    "temp": 18000,
+    "brightness": 0.5,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_29_817",
+    "ra": 0.817510990865573,
+    "dec": 0.6409222947602904,
+    "mag": 4.386922411976224,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_30_878",
+    "ra": 0.8783191248310821,
+    "dec": 0.7465979957204429,
+    "mag": 6,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_31_797",
+    "ra": 0.797515185231432,
+    "dec": 0.7327930984218747,
+    "mag": 3.2122257294388623,
+    "temp": 15000,
+    "brightness": 0.17877742705611377,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_32_812",
+    "ra": 0.8120953518591322,
+    "dec": 0.6741653090287223,
+    "mag": 2.9172104489138837,
+    "temp": 3500,
+    "brightness": 0.20827895510861164,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_33_792",
+    "ra": 0.7923950859020298,
+    "dec": 0.7929349288029195,
+    "mag": 2.188984519339452,
+    "temp": 3500,
+    "brightness": 0.2811015480660548,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_34_820",
+    "ra": 0.8203005967559431,
+    "dec": 0.8087135159618255,
+    "mag": 2.6227668060796265,
+    "temp": 13000,
+    "brightness": 0.23772331939203734,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_35_792",
+    "ra": 0.7921881654760238,
+    "dec": 0.6264084655883034,
+    "mag": 4.959655377803216,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_36_824",
+    "ra": 0.8247440906428593,
+    "dec": 0.714600003079866,
+    "mag": 4.904369046190714,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_37_853",
+    "ra": 0.853691737658834,
+    "dec": 0.8043909773528686,
+    "mag": 3.5333404670335438,
+    "temp": 6500,
+    "brightness": 0.1466659532966456,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_38_841",
+    "ra": 0.8417632195041853,
+    "dec": 0.6772760900681483,
+    "mag": 2.45789231792749,
+    "temp": 13000,
+    "brightness": 0.254210768207251,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_39_811",
+    "ra": 0.811940294560986,
+    "dec": 0.7025801747627551,
+    "mag": 2.673525968982655,
+    "temp": 4500,
+    "brightness": 0.23264740310173448,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_40_791",
+    "ra": 0.7912457039097964,
+    "dec": 0.8472984174590044,
+    "mag": 5.973160258546844,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_41_858",
+    "ra": 0.8583024178595007,
+    "dec": 0.7678699534007724,
+    "mag": 5.079712074428863,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_42_850",
+    "ra": 0.850156587376709,
+    "dec": 0.773326315672658,
+    "mag": 4.831308398754661,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_43_840",
+    "ra": 0.8408439922363804,
+    "dec": 0.6808382232595118,
+    "mag": 3.7363030973846367,
+    "temp": 8500,
+    "brightness": 0.12636969026153633,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_44_822",
+    "ra": 0.8224032659427679,
+    "dec": 0.8193246302195236,
+    "mag": 3.8311506203476764,
+    "temp": 25000,
+    "brightness": 0.11688493796523236,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_45_858",
+    "ra": 0.8581276321446687,
+    "dec": 0.6781102451764431,
+    "mag": 4.730524519088337,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_46_846",
+    "ra": 0.8468566926633166,
+    "dec": 0.671549606667738,
+    "mag": 4.539329110626579,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_47_875",
+    "ra": 0.8759620953702419,
+    "dec": 0.7660298045599278,
+    "mag": 4.006689732783858,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_48_823",
+    "ra": 0.8232195702914995,
+    "dec": 0.6894924730366684,
+    "mag": 2.702954911960456,
+    "temp": 25000,
+    "brightness": 0.22970450880395438,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_49_844",
+    "ra": 0.8442199867976975,
+    "dec": 0.8189065968771967,
+    "mag": 2.7665030712448204,
+    "temp": 8500,
+    "brightness": 0.22334969287551795,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_50_877",
+    "ra": 0.8777683518066367,
+    "dec": 0.8217919649847005,
+    "mag": 3.3333409915990226,
+    "temp": 5300,
+    "brightness": 0.16666590084009775,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_51_821",
+    "ra": 0.8211754208618098,
+    "dec": 0.7295231348972997,
+    "mag": 2.28808729257267,
+    "temp": 8500,
+    "brightness": 0.27119127074273297,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_52_856",
+    "ra": 0.8562688361708092,
+    "dec": 0.7820233201936417,
+    "mag": 4.930919652066242,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_53_828",
+    "ra": 0.8285855906676342,
+    "dec": 0.6361446321948125,
+    "mag": 3.449125505205877,
+    "temp": 15000,
+    "brightness": 0.15508744947941228,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_54_879",
+    "ra": 0.8799491474005723,
+    "dec": 0.6858699740236349,
+    "mag": 0.8978362819035075,
+    "temp": 7500,
+    "brightness": 0.41021637180964926,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_55_806",
+    "ra": 0.8066105090270104,
+    "dec": 0.654062592425221,
+    "mag": 3.030926100290294,
+    "temp": 5300,
+    "brightness": 0.19690738997097063,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Cygnus_Star_56_834",
+    "ra": 0.8345668315695385,
+    "dec": 0.7823598238993476,
+    "mag": 3.451449857193508,
+    "temp": 15000,
+    "brightness": 0.1548550142806492,
+    "constellation": "Cygnus"
+  },
+  {
+    "name": "Lyra_Star_0_796",
+    "ra": 0.7969259524484362,
+    "dec": 0.7770343087902287,
+    "mag": 3.2746796927609476,
+    "temp": 3500,
+    "brightness": 0.17253203072390524,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_1_768",
+    "ra": 0.7681091474032354,
+    "dec": 0.70275301506901,
+    "mag": 3.0144690258320384,
+    "temp": 3900,
+    "brightness": 0.19855309741679616,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_2_749",
+    "ra": 0.7493933558831704,
+    "dec": 0.8287483938454675,
+    "mag": 4.938817094490069,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_3_779",
+    "ra": 0.7790138054955434,
+    "dec": 0.6735329072008064,
+    "mag": 4.421054957480038,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_4_744",
+    "ra": 0.7441228715572742,
+    "dec": 0.7445152033783868,
+    "mag": 3.374932914333003,
+    "temp": 3500,
+    "brightness": 0.16250670856669971,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_5_757",
+    "ra": 0.7574033525261731,
+    "dec": 0.8313085562421481,
+    "mag": 4.463544578526414,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_6_765",
+    "ra": 0.7655964984640702,
+    "dec": 0.6192524946157663,
+    "mag": 2.923967215914825,
+    "temp": 3900,
+    "brightness": 0.2076032784085175,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_7_753",
+    "ra": 0.7535427098608022,
+    "dec": 0.7688712798721876,
+    "mag": 3.0494395525325553,
+    "temp": 7500,
+    "brightness": 0.19505604474674448,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_8_812",
+    "ra": 0.8123478244680198,
+    "dec": 0.7925426993438065,
+    "mag": 2.163226591721222,
+    "temp": 7500,
+    "brightness": 0.28367734082787777,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_9_814",
+    "ra": 0.8143180760480407,
+    "dec": 0.8413530995651939,
+    "mag": 3.5030355930727435,
+    "temp": 11000,
+    "brightness": 0.14969644069272564,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_10_730",
+    "ra": 0.7305739759452702,
+    "dec": 0.6523596503505309,
+    "mag": 1.7528617520822642,
+    "temp": 25000,
+    "brightness": 0.3247138247917736,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_11_767",
+    "ra": 0.7678810248530165,
+    "dec": 0.6841801868643246,
+    "mag": 3.6703075409890533,
+    "temp": 6500,
+    "brightness": 0.13296924590109466,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_12_732",
+    "ra": 0.7327932780855557,
+    "dec": 0.6703760225717112,
+    "mag": 4.790381999403631,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_13_815",
+    "ra": 0.8155238698148924,
+    "dec": 0.7791032474311036,
+    "mag": 3.572596943245978,
+    "temp": 9500,
+    "brightness": 0.1427403056754022,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_14_814",
+    "ra": 0.814968113078155,
+    "dec": 0.7114761227667987,
+    "mag": 1.5978897546508448,
+    "temp": 15000,
+    "brightness": 0.34021102453491553,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_15_744",
+    "ra": 0.7446840666387757,
+    "dec": 0.6699644506298919,
+    "mag": 3.1859417301117623,
+    "temp": 5300,
+    "brightness": 0.18140582698882377,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_16_791",
+    "ra": 0.7915700480720025,
+    "dec": 0.679448761507736,
+    "mag": 1.8029758773416869,
+    "temp": 18000,
+    "brightness": 0.3197024122658313,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_17_745",
+    "ra": 0.7452427680724324,
+    "dec": 0.6243264032145504,
+    "mag": 2.4126730641619267,
+    "temp": 3500,
+    "brightness": 0.25873269358380735,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_18_795",
+    "ra": 0.7958725132155198,
+    "dec": 0.7025859086328625,
+    "mag": 3.36241357309089,
+    "temp": 15000,
+    "brightness": 0.163758642690911,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_19_762",
+    "ra": 0.7620552916698271,
+    "dec": 0.629557738352583,
+    "mag": 4.85051390415262,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_20_732",
+    "ra": 0.732237452846231,
+    "dec": 0.81922360161982,
+    "mag": 2.373435499227,
+    "temp": 4500,
+    "brightness": 0.2626564500773,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_21_735",
+    "ra": 0.7359570183076628,
+    "dec": 0.7146867769905711,
+    "mag": 4.530004209325237,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_22_785",
+    "ra": 0.7857230532116511,
+    "dec": 0.6810268243918808,
+    "mag": 1.807280283631798,
+    "temp": 3500,
+    "brightness": 0.3192719716368202,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_23_816",
+    "ra": 0.8165347457872525,
+    "dec": 0.8001167295806725,
+    "mag": 3.9391711642952822,
+    "temp": 13000,
+    "brightness": 0.10608288357047177,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_24_781",
+    "ra": 0.781926837517678,
+    "dec": 0.7009050668415514,
+    "mag": 3.949904614284948,
+    "temp": 25000,
+    "brightness": 0.10500953857150522,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_25_803",
+    "ra": 0.8037988062519736,
+    "dec": 0.7668565949777053,
+    "mag": 3.519151006782142,
+    "temp": 6500,
+    "brightness": 0.1480848993217858,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_26_772",
+    "ra": 0.7729513289462049,
+    "dec": 0.844668310307686,
+    "mag": 0.9297222767064346,
+    "temp": 5300,
+    "brightness": 0.40702777232935655,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_27_733",
+    "ra": 0.7332719442524406,
+    "dec": 0.6925773571733345,
+    "mag": 4.400921822956539,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_28_761",
+    "ra": 0.7614410959164302,
+    "dec": 0.7124779310048337,
+    "mag": 4.271084775418991,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_29_749",
+    "ra": 0.7495467772050414,
+    "dec": 0.6624883838024004,
+    "mag": 3.597970637020501,
+    "temp": 8500,
+    "brightness": 0.14020293629794991,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_30_748",
+    "ra": 0.7482376482927098,
+    "dec": 0.6787118248159539,
+    "mag": 6,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_31_791",
+    "ra": 0.7910762242084811,
+    "dec": 0.6189914474651667,
+    "mag": 3.561542107891013,
+    "temp": 18000,
+    "brightness": 0.1438457892108987,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_32_795",
+    "ra": 0.7953380078703806,
+    "dec": 0.7454685033279516,
+    "mag": 3.8509648482649967,
+    "temp": 4500,
+    "brightness": 0.11490351517350032,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_33_765",
+    "ra": 0.7655661084807638,
+    "dec": 0.7135343968092117,
+    "mag": 4.217592518777798,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_34_763",
+    "ra": 0.7631121232215938,
+    "dec": 0.6355293606268718,
+    "mag": 3.3838285766872973,
+    "temp": 15000,
+    "brightness": 0.16161714233127028,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_35_734",
+    "ra": 0.7348618752893151,
+    "dec": 0.6660765728392224,
+    "mag": 2.0745951245205427,
+    "temp": 9500,
+    "brightness": 0.2925404875479457,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_36_758",
+    "ra": 0.7589617038759183,
+    "dec": 0.8239008600461013,
+    "mag": 5.293395760333392,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_37_730",
+    "ra": 0.7308152626715055,
+    "dec": 0.7478022359878768,
+    "mag": 5.580775781766811,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_38_788",
+    "ra": 0.788040977449037,
+    "dec": 0.7955638349356551,
+    "mag": 2.0842058491654827,
+    "temp": 3500,
+    "brightness": 0.29157941508345175,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_39_795",
+    "ra": 0.7952534507649371,
+    "dec": 0.8362853352238775,
+    "mag": 3.766059451171704,
+    "temp": 9500,
+    "brightness": 0.12339405488282962,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_40_786",
+    "ra": 0.7864599452218749,
+    "dec": 0.7615557134563352,
+    "mag": 4.848613209219058,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_41_787",
+    "ra": 0.787189261156273,
+    "dec": 0.846957808830649,
+    "mag": 4.8150620715413694,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_42_819",
+    "ra": 0.8192363368935767,
+    "dec": 0.7346581183969358,
+    "mag": 4.786092401495403,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_43_814",
+    "ra": 0.8144776904059465,
+    "dec": 0.6004230276730667,
+    "mag": 3.527378663020204,
+    "temp": 3500,
+    "brightness": 0.14726213369797958,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_44_763",
+    "ra": 0.7636765516946217,
+    "dec": 0.6348760175187909,
+    "mag": 4.974112362959309,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_45_757",
+    "ra": 0.757399792006274,
+    "dec": 0.7011971195047888,
+    "mag": 1.1108917335912531,
+    "temp": 15000,
+    "brightness": 0.3889108266408747,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_46_753",
+    "ra": 0.7535008265126549,
+    "dec": 0.6609686035567696,
+    "mag": 4.131823095447017,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_47_756",
+    "ra": 0.7561335306441371,
+    "dec": 0.6348995523279359,
+    "mag": 3.9646844551494405,
+    "temp": 5300,
+    "brightness": 0.10353155448505595,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_48_810",
+    "ra": 0.8101390196438132,
+    "dec": 0.7218635211626538,
+    "mag": 3.7877337195904075,
+    "temp": 15000,
+    "brightness": 0.12122662804095925,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_49_756",
+    "ra": 0.7564193519906701,
+    "dec": 0.6651100831802303,
+    "mag": 4.208254799999946,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_50_780",
+    "ra": 0.7805202380482594,
+    "dec": 0.699086289832326,
+    "mag": 5.625829485616094,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_51_738",
+    "ra": 0.7388676924990739,
+    "dec": 0.6754074392634901,
+    "mag": 3.696010671454388,
+    "temp": 3500,
+    "brightness": 0.13039893285456122,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Lyra_Star_52_807",
+    "ra": 0.8078166266172053,
+    "dec": 0.6174200371490564,
+    "mag": 4.1163582500706335,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Lyra"
+  },
+  {
+    "name": "Aquila_Star_0_813",
+    "ra": 0.8133181880850439,
+    "dec": 0.3996981770250258,
+    "mag": 4.3210564258930635,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_1_823",
+    "ra": 0.8238030082235651,
+    "dec": 0.3616684786828697,
+    "mag": 3.266314398967067,
+    "temp": 7500,
+    "brightness": 0.17336856010329332,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_2_841",
+    "ra": 0.8419951393543891,
+    "dec": 0.32817813860198264,
+    "mag": 3.4939837712102655,
+    "temp": 8500,
+    "brightness": 0.15060162287897344,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_3_828",
+    "ra": 0.8288176808091967,
+    "dec": 0.29136331695864925,
+    "mag": 4.326494520128067,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_4_803",
+    "ra": 0.8033617158305696,
+    "dec": 0.3007768048119813,
+    "mag": 1.1775992342965096,
+    "temp": 7500,
+    "brightness": 0.38224007657034903,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_5_798",
+    "ra": 0.7985861092007378,
+    "dec": 0.2602823639846341,
+    "mag": 3.0761251904154,
+    "temp": 5300,
+    "brightness": 0.19238748095845998,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_6_786",
+    "ra": 0.7869610142433973,
+    "dec": 0.29388756610416394,
+    "mag": 5.077856887117601,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_7_861",
+    "ra": 0.8610580402849828,
+    "dec": 0.3404991199041816,
+    "mag": 2.007733449451645,
+    "temp": 3900,
+    "brightness": 0.29922665505483553,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_8_790",
+    "ra": 0.7901805936173855,
+    "dec": 0.3011937552637213,
+    "mag": 3.88064770037477,
+    "temp": 11000,
+    "brightness": 0.111935229962523,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_9_845",
+    "ra": 0.8458113732096688,
+    "dec": 0.3006811848356846,
+    "mag": 1.0902293820240594,
+    "temp": 18000,
+    "brightness": 0.39097706179759406,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_10_831",
+    "ra": 0.8313192323567629,
+    "dec": 0.3336191026705878,
+    "mag": 3.0754813131343677,
+    "temp": 9500,
+    "brightness": 0.19245186868656322,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_11_798",
+    "ra": 0.7985187792712114,
+    "dec": 0.3778994127056683,
+    "mag": 3.7143995790770368,
+    "temp": 4500,
+    "brightness": 0.12856004209229632,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_12_770",
+    "ra": 0.7707021567457882,
+    "dec": 0.4382140748673795,
+    "mag": 3.6795359336460116,
+    "temp": 25000,
+    "brightness": 0.13204640663539885,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_13_772",
+    "ra": 0.772199349153304,
+    "dec": 0.3394257108807411,
+    "mag": 3.6242478118457657,
+    "temp": 3500,
+    "brightness": 0.13757521881542342,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_14_808",
+    "ra": 0.8089284658604212,
+    "dec": 0.432068815841573,
+    "mag": 2.6064042153084515,
+    "temp": 8500,
+    "brightness": 0.23935957846915484,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_15_823",
+    "ra": 0.8237178313132429,
+    "dec": 0.42246833086164676,
+    "mag": 2.0964537314447984,
+    "temp": 5300,
+    "brightness": 0.29035462685552016,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_16_778",
+    "ra": 0.7781356224721416,
+    "dec": 0.35216288892036296,
+    "mag": 2.683708142645018,
+    "temp": 4500,
+    "brightness": 0.23162918573549823,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_17_863",
+    "ra": 0.8634021846767278,
+    "dec": 0.3920961938148131,
+    "mag": 4.0196087262607,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_18_828",
+    "ra": 0.8280852632090628,
+    "dec": 0.4410687566647642,
+    "mag": 0.8734176793262249,
+    "temp": 3500,
+    "brightness": 0.41265823206737745,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_19_858",
+    "ra": 0.8581236462609517,
+    "dec": 0.29947827944618566,
+    "mag": 0.3393299974468813,
+    "temp": 9500,
+    "brightness": 0.46606700025531184,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_20_814",
+    "ra": 0.8149571354296579,
+    "dec": 0.3493608716700605,
+    "mag": 5.694640286165391,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_21_797",
+    "ra": 0.797036514294481,
+    "dec": 0.43240756738943625,
+    "mag": 3.994472586943905,
+    "temp": 3900,
+    "brightness": 0.1005527413056095,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_22_771",
+    "ra": 0.7718362989213018,
+    "dec": 0.3952367849224223,
+    "mag": 4.179805632182996,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_23_857",
+    "ra": 0.8579170378633763,
+    "dec": 0.3039119267988659,
+    "mag": 2.49352643505242,
+    "temp": 18000,
+    "brightness": 0.250647356494758,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_24_796",
+    "ra": 0.7967876616846137,
+    "dec": 0.37728227623582855,
+    "mag": 4.839718471438639,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_25_830",
+    "ra": 0.8304225454409445,
+    "dec": 0.3023874223531712,
+    "mag": 2.789461528755979,
+    "temp": 7500,
+    "brightness": 0.22105384712440207,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_26_808",
+    "ra": 0.8089733455512796,
+    "dec": 0.3209640852240538,
+    "mag": 2.139597780805911,
+    "temp": 5300,
+    "brightness": 0.2860402219194089,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_27_810",
+    "ra": 0.8101430096234679,
+    "dec": 0.2582412967383221,
+    "mag": 1.2123446710125885,
+    "temp": 9500,
+    "brightness": 0.37876553289874115,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_28_835",
+    "ra": 0.8352956353427644,
+    "dec": 0.29898192917166383,
+    "mag": 3.027101296565012,
+    "temp": 8500,
+    "brightness": 0.1972898703434988,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_29_854",
+    "ra": 0.8541891406110942,
+    "dec": 0.2690913609810931,
+    "mag": 4.216060739866419,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_30_833",
+    "ra": 0.8339379813981395,
+    "dec": 0.3845910012736768,
+    "mag": 4.953321747371494,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_31_860",
+    "ra": 0.860648690469286,
+    "dec": 0.3646623429649921,
+    "mag": 1.1057285068856366,
+    "temp": 25000,
+    "brightness": 0.38942714931143635,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_32_811",
+    "ra": 0.81143998021518,
+    "dec": 0.2801586868881848,
+    "mag": 2.0744480550226427,
+    "temp": 25000,
+    "brightness": 0.2925551944977357,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_33_836",
+    "ra": 0.8366089736580957,
+    "dec": 0.2539642048327959,
+    "mag": 3.0979750637237142,
+    "temp": 8500,
+    "brightness": 0.1902024936276286,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_34_830",
+    "ra": 0.830104557395287,
+    "dec": 0.44354582593961245,
+    "mag": 5.148989290691617,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_35_855",
+    "ra": 0.8552879367335648,
+    "dec": 0.3137896789152015,
+    "mag": 3.8141410001152924,
+    "temp": 3500,
+    "brightness": 0.11858589998847076,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_36_828",
+    "ra": 0.8281008182127767,
+    "dec": 0.26373028514336794,
+    "mag": 3.6464782550787875,
+    "temp": 6500,
+    "brightness": 0.13535217449212125,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_37_781",
+    "ra": 0.781576202046445,
+    "dec": 0.4487676330798387,
+    "mag": 3.422713731090823,
+    "temp": 4500,
+    "brightness": 0.1577286268909177,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_38_829",
+    "ra": 0.8291181694198354,
+    "dec": 0.3011517046931494,
+    "mag": 4.889452287188267,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_39_845",
+    "ra": 0.8459022863935527,
+    "dec": 0.3836541496474114,
+    "mag": 4.621017798394188,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_40_861",
+    "ra": 0.8610924247787026,
+    "dec": 0.3989937941508682,
+    "mag": 3.2052426774868388,
+    "temp": 6500,
+    "brightness": 0.17947573225131613,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_41_776",
+    "ra": 0.7765709411240671,
+    "dec": 0.2754152889621763,
+    "mag": 4.867375574468389,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_42_796",
+    "ra": 0.7967836602551334,
+    "dec": 0.3242866549853038,
+    "mag": 2.3173063693751237,
+    "temp": 15000,
+    "brightness": 0.2682693630624876,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_43_860",
+    "ra": 0.8604856917147256,
+    "dec": 0.3050036675709411,
+    "mag": 3.9366650063388766,
+    "temp": 4500,
+    "brightness": 0.10633349936611233,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_44_814",
+    "ra": 0.8147709136970975,
+    "dec": 0.3799327633574572,
+    "mag": 2.7210411450720233,
+    "temp": 7500,
+    "brightness": 0.22789588549279766,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_45_789",
+    "ra": 0.789060842809168,
+    "dec": 0.3287554244737319,
+    "mag": 2.4360704471580004,
+    "temp": 8500,
+    "brightness": 0.2563929552842,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_46_773",
+    "ra": 0.7737682448352914,
+    "dec": 0.35675456728617483,
+    "mag": 5.215004964626197,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_47_830",
+    "ra": 0.8305501442710344,
+    "dec": 0.4010861603767192,
+    "mag": 3.4152213701886245,
+    "temp": 8500,
+    "brightness": 0.15847786298113756,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Aquila_Star_48_856",
+    "ra": 0.8562228809527852,
+    "dec": 0.27624968063920063,
+    "mag": 2.612294142602533,
+    "temp": 18000,
+    "brightness": 0.23877058573974672,
+    "constellation": "Aquila"
+  },
+  {
+    "name": "Scorpius_Star_0_710",
+    "ra": 0.71059386969908,
+    "dec": 0.3226547501631688,
+    "mag": 4.624645617476329,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_1_706",
+    "ra": 0.7060297947370687,
+    "dec": 0.3112852078445793,
+    "mag": 3.413647546690078,
+    "temp": 5300,
+    "brightness": 0.1586352453309922,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_2_704",
+    "ra": 0.7049640729636139,
+    "dec": 0.42487632036106915,
+    "mag": 4.531229477945283,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_3_721",
+    "ra": 0.7217281606651881,
+    "dec": 0.36360600891858436,
+    "mag": 2.623971896593027,
+    "temp": 3500,
+    "brightness": 0.2376028103406973,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_4_699",
+    "ra": 0.6997313424660419,
+    "dec": 0.34456168926259567,
+    "mag": 3.788134154928437,
+    "temp": 3900,
+    "brightness": 0.12118658450715629,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_5_713",
+    "ra": 0.7139281895902045,
+    "dec": 0.4041565026980517,
+    "mag": 4.6415257432072865,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_6_722",
+    "ra": 0.7226759816490087,
+    "dec": 0.38150096516992293,
+    "mag": 4.4541673341320305,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_7_717",
+    "ra": 0.7172008241400846,
+    "dec": 0.294569867214182,
+    "mag": 3.623571669227358,
+    "temp": 18000,
+    "brightness": 0.1376428330772642,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_8_670",
+    "ra": 0.6707472849059275,
+    "dec": 0.39739388499846906,
+    "mag": 3.1119059994048746,
+    "temp": 15000,
+    "brightness": 0.18880940005951255,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_9_683",
+    "ra": 0.6835478488642869,
+    "dec": 0.3620577257093894,
+    "mag": 2.809032558453862,
+    "temp": 6500,
+    "brightness": 0.2190967441546138,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_10_670",
+    "ra": 0.6707090120915783,
+    "dec": 0.34618541641398626,
+    "mag": 5.440276437110425,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_11_734",
+    "ra": 0.7344287434471524,
+    "dec": 0.3686509892850575,
+    "mag": 3.185130099075983,
+    "temp": 4500,
+    "brightness": 0.1814869900924017,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_12_729",
+    "ra": 0.7298177086631266,
+    "dec": 0.41020746879343306,
+    "mag": 3.8077820520461483,
+    "temp": 9500,
+    "brightness": 0.11922179479538517,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_13_743",
+    "ra": 0.7436514248910273,
+    "dec": 0.2578698695590408,
+    "mag": 4.529423515530492,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_14_673",
+    "ra": 0.6739708998921923,
+    "dec": 0.354474040231809,
+    "mag": 5.039722473307652,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_15_698",
+    "ra": 0.6981371959613548,
+    "dec": 0.37651332762282874,
+    "mag": 2.2991629187814153,
+    "temp": 15000,
+    "brightness": 0.27008370812185845,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_16_666",
+    "ra": 0.6661769704017031,
+    "dec": 0.296559486659937,
+    "mag": 6,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_17_684",
+    "ra": 0.6840727769970626,
+    "dec": 0.28103996122534153,
+    "mag": 3.2595799827379217,
+    "temp": 15000,
+    "brightness": 0.17404200172620782,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_18_731",
+    "ra": 0.7318790685212637,
+    "dec": 0.27138788771459754,
+    "mag": 4.876477593404196,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_19_744",
+    "ra": 0.7440751517817029,
+    "dec": 0.38585408768396867,
+    "mag": 2.998160562565285,
+    "temp": 3500,
+    "brightness": 0.2001839437434715,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_20_708",
+    "ra": 0.7088561610632585,
+    "dec": 0.4208469793449128,
+    "mag": 5.182068088477381,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_21_659",
+    "ra": 0.6593261116326546,
+    "dec": 0.35566004680868984,
+    "mag": 4.894529639357558,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_22_691",
+    "ra": 0.6918152383089423,
+    "dec": 0.329773081814163,
+    "mag": 3.415285400967306,
+    "temp": 3900,
+    "brightness": 0.1584714599032694,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_23_698",
+    "ra": 0.6984168712437177,
+    "dec": 0.28248268507491714,
+    "mag": 3.9231938072732273,
+    "temp": 5300,
+    "brightness": 0.10768061927267727,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_24_653",
+    "ra": 0.6539265030578033,
+    "dec": 0.2716807949120272,
+    "mag": 2.18583569773131,
+    "temp": 5300,
+    "brightness": 0.281416430226869,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_25_674",
+    "ra": 0.6746246118966263,
+    "dec": 0.402885925359989,
+    "mag": 4.322885791006257,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_26_652",
+    "ra": 0.6526605415983497,
+    "dec": 0.3967589798094031,
+    "mag": 4.5906308067590835,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_27_691",
+    "ra": 0.6911400582645709,
+    "dec": 0.2613065400231221,
+    "mag": 3.393221744106869,
+    "temp": 9500,
+    "brightness": 0.1606778255893131,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_28_744",
+    "ra": 0.744386075923799,
+    "dec": 0.4271240622309953,
+    "mag": 3.4956303955356742,
+    "temp": 4500,
+    "brightness": 0.15043696044643257,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_29_656",
+    "ra": 0.6560951566625872,
+    "dec": 0.2924193285042705,
+    "mag": 5.731356873980751,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_30_676",
+    "ra": 0.6768817627149717,
+    "dec": 0.37810803724931125,
+    "mag": 1.5783868266226024,
+    "temp": 8500,
+    "brightness": 0.34216131733773975,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_31_640",
+    "ra": 0.6400298658741396,
+    "dec": 0.38226325959498786,
+    "mag": 3.0774173839233745,
+    "temp": 7500,
+    "brightness": 0.19225826160766255,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_32_690",
+    "ra": 0.6907472033221177,
+    "dec": 0.4347075903615756,
+    "mag": 0.6136052324833563,
+    "temp": 18000,
+    "brightness": 0.4386394767516643,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_33_692",
+    "ra": 0.6926788444833459,
+    "dec": 0.43128539274858047,
+    "mag": 2.8406929223107107,
+    "temp": 18000,
+    "brightness": 0.21593070776892892,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_34_653",
+    "ra": 0.6533627361927864,
+    "dec": 0.4442748863490766,
+    "mag": 2.2903984915488813,
+    "temp": 15000,
+    "brightness": 0.2709601508451119,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_35_747",
+    "ra": 0.7475404742078154,
+    "dec": 0.41121719575341154,
+    "mag": 3.739160531165364,
+    "temp": 3900,
+    "brightness": 0.12608394688346358,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_36_726",
+    "ra": 0.7261671124802378,
+    "dec": 0.39109454406425165,
+    "mag": 3.7663625717799714,
+    "temp": 5300,
+    "brightness": 0.12336374282200287,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_37_646",
+    "ra": 0.6467480150817069,
+    "dec": 0.36394486564451844,
+    "mag": 3.2187790358178887,
+    "temp": 18000,
+    "brightness": 0.17812209641821114,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_38_653",
+    "ra": 0.6535643190035947,
+    "dec": 0.32963279827882785,
+    "mag": 4.244221901639699,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_39_662",
+    "ra": 0.6621775660264696,
+    "dec": 0.38298081961760966,
+    "mag": 2.9173306379748736,
+    "temp": 6500,
+    "brightness": 0.20826693620251263,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_40_646",
+    "ra": 0.6462953249448077,
+    "dec": 0.33068183888553226,
+    "mag": 6,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_41_677",
+    "ra": 0.6770088431790662,
+    "dec": 0.2980222057906845,
+    "mag": 3.190198943622248,
+    "temp": 13000,
+    "brightness": 0.1809801056377752,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_42_746",
+    "ra": 0.7460638047384218,
+    "dec": 0.27908974782388957,
+    "mag": 4.854840869902693,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_43_679",
+    "ra": 0.6792347475237984,
+    "dec": 0.29683798517016197,
+    "mag": 3.903848384964031,
+    "temp": 6500,
+    "brightness": 0.10961516150359692,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Scorpius_Star_44_723",
+    "ra": 0.7232539798856482,
+    "dec": 0.4149212090905544,
+    "mag": 3.594566611848824,
+    "temp": 3900,
+    "brightness": 0.1405433388151176,
+    "constellation": "Scorpius"
+  },
+  {
+    "name": "Sagittarius_Star_0_785",
+    "ra": 0.7857472137032715,
+    "dec": 0.33612327849431817,
+    "mag": 1.9227368236873554,
+    "temp": 18000,
+    "brightness": 0.30772631763126446,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_1_810",
+    "ra": 0.8107573874160562,
+    "dec": 0.19708217473047085,
+    "mag": 2.7443198499837917,
+    "temp": 11000,
+    "brightness": 0.22556801500162083,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_2_812",
+    "ra": 0.8125195130862038,
+    "dec": 0.30037069230633756,
+    "mag": 3.581333070641098,
+    "temp": 5300,
+    "brightness": 0.1418666929358902,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_3_819",
+    "ra": 0.8193654530435313,
+    "dec": 0.2968316966471308,
+    "mag": 2.7626895183172717,
+    "temp": 13000,
+    "brightness": 0.22373104816827283,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_4_817",
+    "ra": 0.8179617689851966,
+    "dec": 0.12800514298099383,
+    "mag": 3.568457142019748,
+    "temp": 9500,
+    "brightness": 0.1431542857980252,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_5_808",
+    "ra": 0.8087365395344014,
+    "dec": 0.11641827262831492,
+    "mag": 3.590348945102964,
+    "temp": 15000,
+    "brightness": 0.1409651054897036,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_6_746",
+    "ra": 0.7462096353339611,
+    "dec": 0.19010774507069067,
+    "mag": 3.5052433029452668,
+    "temp": 5300,
+    "brightness": 0.14947566970547332,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_7_779",
+    "ra": 0.7790580672715579,
+    "dec": 0.14474943952775696,
+    "mag": 2.6955276879798507,
+    "temp": 25000,
+    "brightness": 0.23044723120201493,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_8_806",
+    "ra": 0.8061959169961594,
+    "dec": 0.21398119392331705,
+    "mag": 3.4238240525020385,
+    "temp": 7500,
+    "brightness": 0.15761759474979614,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_9_813",
+    "ra": 0.8130577241392328,
+    "dec": 0.22805873583629094,
+    "mag": 3.842884502214026,
+    "temp": 11000,
+    "brightness": 0.11571154977859739,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_10_734",
+    "ra": 0.7347989429690411,
+    "dec": 0.2884398505911887,
+    "mag": 4.429931507648878,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_11_732",
+    "ra": 0.7320179048038676,
+    "dec": 0.21145736879512889,
+    "mag": 2.706864919726417,
+    "temp": 13000,
+    "brightness": 0.22931350802735828,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_12_755",
+    "ra": 0.7554318241880796,
+    "dec": 0.2953894419873817,
+    "mag": 4.391443505179446,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_13_812",
+    "ra": 0.8127514811432767,
+    "dec": 0.11457796979569931,
+    "mag": 1.5203519871570972,
+    "temp": 13000,
+    "brightness": 0.3479648012842903,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_14_765",
+    "ra": 0.7657936484974458,
+    "dec": 0.14193431747838353,
+    "mag": 5.128227677600969,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_15_796",
+    "ra": 0.79617960172781,
+    "dec": 0.256690265167318,
+    "mag": 5.411839020282666,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_16_796",
+    "ra": 0.796810457433276,
+    "dec": 0.3270156042170815,
+    "mag": 2.0211274078952925,
+    "temp": 9500,
+    "brightness": 0.29788725921047077,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_17_798",
+    "ra": 0.7980644120974391,
+    "dec": 0.34037988504611105,
+    "mag": 1.893457981468574,
+    "temp": 4500,
+    "brightness": 0.31065420185314263,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_18_804",
+    "ra": 0.8045767278659539,
+    "dec": 0.25641613289814014,
+    "mag": 4.9081521084873305,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_19_787",
+    "ra": 0.7875240655030645,
+    "dec": 0.2976095272902518,
+    "mag": 3.7309847532863527,
+    "temp": 3900,
+    "brightness": 0.12690152467136473,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_20_796",
+    "ra": 0.796330339287535,
+    "dec": 0.2671265713139457,
+    "mag": 1.5378634694467086,
+    "temp": 18000,
+    "brightness": 0.34621365305532914,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_21_787",
+    "ra": 0.7875614057784682,
+    "dec": 0.24749414487124533,
+    "mag": 4.268661823352108,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_22_813",
+    "ra": 0.8137461764332145,
+    "dec": 0.13865205126823435,
+    "mag": 2.089669359733235,
+    "temp": 11000,
+    "brightness": 0.2910330640266765,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_23_788",
+    "ra": 0.7880545339655662,
+    "dec": 0.12923331336235794,
+    "mag": 1.216058027062148,
+    "temp": 15000,
+    "brightness": 0.3783941972937852,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_24_796",
+    "ra": 0.7964232143131598,
+    "dec": 0.11520354255230925,
+    "mag": 1.557116915622716,
+    "temp": 18000,
+    "brightness": 0.3442883084377284,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_25_810",
+    "ra": 0.8109443177396998,
+    "dec": 0.24439800800339131,
+    "mag": 1.3283629704198257,
+    "temp": 5300,
+    "brightness": 0.3671637029580174,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_26_804",
+    "ra": 0.8046392150368115,
+    "dec": 0.17824660924008634,
+    "mag": 3.5432992885502137,
+    "temp": 15000,
+    "brightness": 0.14567007114497862,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_27_793",
+    "ra": 0.7933918893002239,
+    "dec": 0.24436357103068881,
+    "mag": 4.395008648711975,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_28_732",
+    "ra": 0.7321689848459685,
+    "dec": 0.16869259348431376,
+    "mag": 3.502977860324491,
+    "temp": 25000,
+    "brightness": 0.14970221396755087,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_29_815",
+    "ra": 0.815895845244037,
+    "dec": 0.2480198376606339,
+    "mag": 2.4235362104118625,
+    "temp": 4500,
+    "brightness": 0.25764637895881376,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_30_768",
+    "ra": 0.7681075194523185,
+    "dec": 0.2764269031727331,
+    "mag": 1.065596197170596,
+    "temp": 5300,
+    "brightness": 0.39344038028294037,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_31_732",
+    "ra": 0.7324534467884963,
+    "dec": 0.28653310112478647,
+    "mag": 2.918254955007538,
+    "temp": 3900,
+    "brightness": 0.20817450449924618,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_32_806",
+    "ra": 0.8067468633145904,
+    "dec": 0.2338151342103071,
+    "mag": 2.8373800874170465,
+    "temp": 6500,
+    "brightness": 0.21626199125829534,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_33_805",
+    "ra": 0.8057547886072897,
+    "dec": 0.10265416705682207,
+    "mag": 2.8445430236201554,
+    "temp": 25000,
+    "brightness": 0.21554569763798445,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_34_791",
+    "ra": 0.7914182355658779,
+    "dec": 0.3484253225563253,
+    "mag": 4.825658103272514,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_35_788",
+    "ra": 0.7888492688972215,
+    "dec": 0.21698413537691424,
+    "mag": 3.8794626294713,
+    "temp": 6500,
+    "brightness": 0.11205373705286999,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_36_757",
+    "ra": 0.7578623891925832,
+    "dec": 0.18669242010996712,
+    "mag": 3.713210775785616,
+    "temp": 4500,
+    "brightness": 0.1286789224214384,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_37_727",
+    "ra": 0.7276568604340408,
+    "dec": 0.1091547287070076,
+    "mag": 2.661123107790885,
+    "temp": 3900,
+    "brightness": 0.2338876892209115,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_38_819",
+    "ra": 0.819469980487139,
+    "dec": 0.14757470787045004,
+    "mag": 4.697197315130492,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_39_763",
+    "ra": 0.763322573989208,
+    "dec": 0.2219568298627857,
+    "mag": 1.7820267244121788,
+    "temp": 9500,
+    "brightness": 0.3217973275587821,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Sagittarius_Star_40_819",
+    "ra": 0.8198470286127144,
+    "dec": 0.3236292743286979,
+    "mag": 5.812810145436412,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Sagittarius"
+  },
+  {
+    "name": "Centaurus_Star_0_566",
+    "ra": 0.566118459134324,
+    "dec": 0.28289288028893733,
+    "mag": 5.183851225504769,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_1_599",
+    "ra": 0.5995091207570793,
+    "dec": 0.2298413972554065,
+    "mag": 1.9377704178344604,
+    "temp": 11000,
+    "brightness": 0.306222958216554,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_2_623",
+    "ra": 0.6233964795407675,
+    "dec": 0.2827103817915232,
+    "mag": 2.395486747605707,
+    "temp": 4500,
+    "brightness": 0.26045132523942927,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_3_644",
+    "ra": 0.6449456443643804,
+    "dec": 0.20953391093770973,
+    "mag": 5.296495389110634,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_4_598",
+    "ra": 0.5983997303240749,
+    "dec": 0.12348598003134348,
+    "mag": 5.1301432707115815,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_5_601",
+    "ra": 0.6012895439691385,
+    "dec": 0.10607504232017909,
+    "mag": 3.092472627871992,
+    "temp": 3500,
+    "brightness": 0.19075273721280078,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_6_601",
+    "ra": 0.6016836579242856,
+    "dec": 0.28547519994041304,
+    "mag": 4.229548590491353,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_7_587",
+    "ra": 0.5871925202528798,
+    "dec": 0.3288002531954681,
+    "mag": 3.1809581373471487,
+    "temp": 25000,
+    "brightness": 0.18190418626528512,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_8_589",
+    "ra": 0.5897414954155277,
+    "dec": 0.31574931922545846,
+    "mag": 3.386958463212016,
+    "temp": 13000,
+    "brightness": 0.16130415367879838,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_9_632",
+    "ra": 0.6321866584290521,
+    "dec": 0.2526936508953983,
+    "mag": 2.1849408661918277,
+    "temp": 3900,
+    "brightness": 0.2815059133808172,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_10_618",
+    "ra": 0.6185866681054273,
+    "dec": 0.16176276880057167,
+    "mag": 2.3857312573197103,
+    "temp": 3500,
+    "brightness": 0.26142687426802896,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_11_578",
+    "ra": 0.5780764471007859,
+    "dec": 0.28199192283022934,
+    "mag": 3.644831014954446,
+    "temp": 15000,
+    "brightness": 0.1355168985045554,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_12_596",
+    "ra": 0.5962586896105434,
+    "dec": 0.21053836740366577,
+    "mag": 2.3477746697395743,
+    "temp": 13000,
+    "brightness": 0.2652225330260426,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_13_631",
+    "ra": 0.631302936229502,
+    "dec": 0.3324319528716634,
+    "mag": 5.405713133226617,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_14_569",
+    "ra": 0.5692004775889749,
+    "dec": 0.14918521735728085,
+    "mag": 3.430361856912768,
+    "temp": 15000,
+    "brightness": 0.15696381430872322,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_15_560",
+    "ra": 0.5609931604716022,
+    "dec": 0.12783590657756325,
+    "mag": 4.025425522832007,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_16_577",
+    "ra": 0.5774911790997453,
+    "dec": 0.1638033645850912,
+    "mag": 3.0159056257596273,
+    "temp": 4500,
+    "brightness": 0.19840943742403727,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_17_566",
+    "ra": 0.566646277810201,
+    "dec": 0.1818191809497613,
+    "mag": 2.155637143582984,
+    "temp": 4500,
+    "brightness": 0.2844362856417016,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_18_553",
+    "ra": 0.5535103180578713,
+    "dec": 0.28017240059412285,
+    "mag": 3.4818726387988224,
+    "temp": 25000,
+    "brightness": 0.15181273612011775,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_19_552",
+    "ra": 0.5526664458569782,
+    "dec": 0.15756470913903117,
+    "mag": 4.310037104684013,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_20_635",
+    "ra": 0.635405515834727,
+    "dec": 0.2024356494238857,
+    "mag": 3.3312892679801407,
+    "temp": 25000,
+    "brightness": 0.16687107320198594,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_21_630",
+    "ra": 0.63094594625951,
+    "dec": 0.32020069552651875,
+    "mag": 2.887702780075953,
+    "temp": 5300,
+    "brightness": 0.2112297219924047,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_22_550",
+    "ra": 0.5508534524606459,
+    "dec": 0.11222427787148756,
+    "mag": 5.606447729361612,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_23_585",
+    "ra": 0.585194236405454,
+    "dec": 0.3066709815969479,
+    "mag": 2.731713095187792,
+    "temp": 3900,
+    "brightness": 0.2268286904812208,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_24_595",
+    "ra": 0.5956239781288788,
+    "dec": 0.2407637927538029,
+    "mag": 2.4493153117953907,
+    "temp": 13000,
+    "brightness": 0.2550684688204609,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_25_587",
+    "ra": 0.5878120614684323,
+    "dec": 0.3151240640635905,
+    "mag": 3.7152483046314826,
+    "temp": 6500,
+    "brightness": 0.12847516953685173,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_26_584",
+    "ra": 0.5847038050964468,
+    "dec": 0.26050486809418943,
+    "mag": 3.1184708849382807,
+    "temp": 13000,
+    "brightness": 0.18815291150617192,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_27_643",
+    "ra": 0.6435450824086344,
+    "dec": 0.25174451986915014,
+    "mag": 4.137464165133186,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_28_592",
+    "ra": 0.5920387898140297,
+    "dec": 0.274035002087586,
+    "mag": 3.4816873989070376,
+    "temp": 9500,
+    "brightness": 0.15183126010929623,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_29_635",
+    "ra": 0.6352183744836017,
+    "dec": 0.22702056405203638,
+    "mag": 3.8921367618909843,
+    "temp": 3500,
+    "brightness": 0.11078632381090156,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_30_586",
+    "ra": 0.586615328198146,
+    "dec": 0.3150300093736037,
+    "mag": 5.580909681474234,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_31_614",
+    "ra": 0.6148641435811764,
+    "dec": 0.2938211190147149,
+    "mag": 5.501195717767666,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_32_584",
+    "ra": 0.584064587837618,
+    "dec": 0.25378141096710005,
+    "mag": 3.3808401198614915,
+    "temp": 13000,
+    "brightness": 0.16191598801385085,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_33_554",
+    "ra": 0.5545645054084384,
+    "dec": 0.34909666350232493,
+    "mag": 4.168216846676695,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_34_621",
+    "ra": 0.6210555847033641,
+    "dec": 0.26721330280627764,
+    "mag": 3.520626382512742,
+    "temp": 4500,
+    "brightness": 0.1479373617487258,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_35_580",
+    "ra": 0.5807212366896986,
+    "dec": 0.21814556959381465,
+    "mag": 5.2153226662947665,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_36_641",
+    "ra": 0.6418564978147725,
+    "dec": 0.23528203479846846,
+    "mag": 3.6796135634650606,
+    "temp": 11000,
+    "brightness": 0.13203864365349394,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Centaurus_Star_37_566",
+    "ra": 0.5663151803000024,
+    "dec": 0.16783954784027555,
+    "mag": 3.335793808826952,
+    "temp": 8500,
+    "brightness": 0.16642061911730482,
+    "constellation": "Centaurus"
+  },
+  {
+    "name": "Ursa Major_Star_0_582",
+    "ra": 0.5823129433831079,
+    "dec": 0.7955753650230579,
+    "mag": 2.895591068055494,
+    "temp": 3900,
+    "brightness": 0.21044089319445058,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_1_441",
+    "ra": 0.44122971501575625,
+    "dec": 0.7672183684306304,
+    "mag": 1.5061943231789767,
+    "temp": 9500,
+    "brightness": 0.34938056768210235,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_2_593",
+    "ra": 0.593671655271893,
+    "dec": 0.7159646538654142,
+    "mag": 2.06339322301387,
+    "temp": 18000,
+    "brightness": 0.293660677698613,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_3_505",
+    "ra": 0.5053746781637378,
+    "dec": 0.746259909170794,
+    "mag": 2.325469731810381,
+    "temp": 9500,
+    "brightness": 0.2674530268189619,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_4_562",
+    "ra": 0.5624772169911954,
+    "dec": 0.8208631224141977,
+    "mag": 4.954601226551648,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_5_496",
+    "ra": 0.4966322472598716,
+    "dec": 0.7314114307006533,
+    "mag": 4.397357353144722,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_6_468",
+    "ra": 0.46804479056880194,
+    "dec": 0.7612547100465326,
+    "mag": 4.038241481460165,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_7_414",
+    "ra": 0.41473846954393306,
+    "dec": 0.862007001923318,
+    "mag": 3.25620167444222,
+    "temp": 4500,
+    "brightness": 0.174379832555778,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_8_464",
+    "ra": 0.46467998634129665,
+    "dec": 0.8594830893890193,
+    "mag": 3.160102575160283,
+    "temp": 4500,
+    "brightness": 0.18398974248397168,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_9_522",
+    "ra": 0.5226990679163054,
+    "dec": 0.772004435677142,
+    "mag": 3.0288593473473258,
+    "temp": 3500,
+    "brightness": 0.19711406526526742,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_10_513",
+    "ra": 0.5136952701266594,
+    "dec": 0.7947137226874027,
+    "mag": 5.124528959638765,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_11_573",
+    "ra": 0.5730798913233243,
+    "dec": 0.7238160386862754,
+    "mag": 3.915521901622148,
+    "temp": 3500,
+    "brightness": 0.1084478098377852,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_12_551",
+    "ra": 0.5514495039195402,
+    "dec": 0.7731292337282396,
+    "mag": 2.9600376920921216,
+    "temp": 25000,
+    "brightness": 0.20399623079078782,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_13_483",
+    "ra": 0.48372634474575993,
+    "dec": 0.842895015801133,
+    "mag": 4.7393659841620135,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_14_584",
+    "ra": 0.5847516070424906,
+    "dec": 0.8414133151871621,
+    "mag": 4.996748472013168,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_15_530",
+    "ra": 0.5309317600547503,
+    "dec": 0.8815849296722384,
+    "mag": 4.218626161854148,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_16_405",
+    "ra": 0.40596342764677784,
+    "dec": 0.8262534067786889,
+    "mag": 2.7321448244653954,
+    "temp": 7500,
+    "brightness": 0.22678551755346046,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_17_475",
+    "ra": 0.47508268550967264,
+    "dec": 0.7823094837444104,
+    "mag": 3.9052454357652753,
+    "temp": 3900,
+    "brightness": 0.10947545642347248,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_18_411",
+    "ra": 0.4118268523026007,
+    "dec": 0.7944592149253673,
+    "mag": 6,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_19_466",
+    "ra": 0.466443557345975,
+    "dec": 0.8355120587702625,
+    "mag": 2.7093806995085683,
+    "temp": 7500,
+    "brightness": 0.22906193004914316,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_20_503",
+    "ra": 0.5030695413190236,
+    "dec": 0.84158676275393,
+    "mag": 4.1998643386310786,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_21_532",
+    "ra": 0.5320658799719871,
+    "dec": 0.8037481732116876,
+    "mag": 2.5172340576610583,
+    "temp": 6500,
+    "brightness": 0.24827659423389417,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_22_523",
+    "ra": 0.5239424936356071,
+    "dec": 0.805579499908863,
+    "mag": 2.8104801150330525,
+    "temp": 9500,
+    "brightness": 0.21895198849669475,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_23_499",
+    "ra": 0.4992936194992549,
+    "dec": 0.881078797728593,
+    "mag": 1.172827098686466,
+    "temp": 11000,
+    "brightness": 0.3827172901313534,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_24_423",
+    "ra": 0.42307914471585184,
+    "dec": 0.7528816331032405,
+    "mag": 3.973199989078795,
+    "temp": 3500,
+    "brightness": 0.1026800010921205,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_25_432",
+    "ra": 0.43210829726290934,
+    "dec": 0.8991735830630964,
+    "mag": 3.6561398220930283,
+    "temp": 15000,
+    "brightness": 0.13438601779069717,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_26_451",
+    "ra": 0.4512982472995169,
+    "dec": 0.7197932139911655,
+    "mag": 3.0460258487066216,
+    "temp": 3500,
+    "brightness": 0.19539741512933784,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_27_446",
+    "ra": 0.44690042127687857,
+    "dec": 0.80523631871026,
+    "mag": 1.7459275124950497,
+    "temp": 8500,
+    "brightness": 0.325407248750495,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_28_477",
+    "ra": 0.47753140162809543,
+    "dec": 0.7009579058499236,
+    "mag": 4.153783034821913,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_29_492",
+    "ra": 0.4924022772523863,
+    "dec": 0.8264165061551787,
+    "mag": 3.327352236062011,
+    "temp": 13000,
+    "brightness": 0.1672647763937989,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_30_574",
+    "ra": 0.5748662870245496,
+    "dec": 0.723711111622777,
+    "mag": 1.7244343439055152,
+    "temp": 3900,
+    "brightness": 0.32755656560944846,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_31_468",
+    "ra": 0.4685443675742339,
+    "dec": 0.7655599488740353,
+    "mag": 5.36914258736223,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_32_562",
+    "ra": 0.5620345639172641,
+    "dec": 0.8950569524937764,
+    "mag": 3.604824003492975,
+    "temp": 11000,
+    "brightness": 0.13951759965070248,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_33_476",
+    "ra": 0.476437535700081,
+    "dec": 0.7914585096174711,
+    "mag": 1.8698814898080311,
+    "temp": 4500,
+    "brightness": 0.31301185101919693,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Major_Star_34_502",
+    "ra": 0.5024313480137091,
+    "dec": 0.8573218165736858,
+    "mag": 3.6321281099450946,
+    "temp": 15000,
+    "brightness": 0.13678718900549053,
+    "constellation": "Ursa Major"
+  },
+  {
+    "name": "Ursa Minor_Star_0_16",
+    "ra": 0.01675791724404289,
+    "dec": 0.9736499975670431,
+    "mag": 2.7832336199397325,
+    "temp": 4500,
+    "brightness": 0.22167663800602674,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_1_101",
+    "ra": 0.10171333162401489,
+    "dec": 0.8676485519443009,
+    "mag": 3.178231708534143,
+    "temp": 15000,
+    "brightness": 0.18217682914658567,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_2_12",
+    "ra": 0.012155234548583737,
+    "dec": 0.9661101021072604,
+    "mag": 3.742338005990885,
+    "temp": 3500,
+    "brightness": 0.12576619940091152,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_3_102",
+    "ra": 0.10222800007429231,
+    "dec": 0.9513751839663784,
+    "mag": 2.2541485431379193,
+    "temp": 3500,
+    "brightness": 0.27458514568620807,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_4_299",
+    "ra": 0.29927469827371056,
+    "dec": 0.9397577724924706,
+    "mag": 2.990356636603439,
+    "temp": 18000,
+    "brightness": 0.2009643363396561,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_5_191",
+    "ra": 0.19144975581324236,
+    "dec": 0.9838724850369867,
+    "mag": 4.032161271480849,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_6_163",
+    "ra": 0.16388809363773324,
+    "dec": 0.7608842032404419,
+    "mag": 4.2268627807936365,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_7_300",
+    "ra": 0.3005194803789351,
+    "dec": 0.7516187693391293,
+    "mag": 5.042649335546089,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_8_20",
+    "ra": 0.020526190564117246,
+    "dec": 0.9532250530240575,
+    "mag": 4.902426624513497,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_9_51",
+    "ra": 0.05129246397959472,
+    "dec": 0.813447868683596,
+    "mag": 0.29402312276386366,
+    "temp": 8500,
+    "brightness": 0.4705976877236136,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_10_177",
+    "ra": 0.17781596261658958,
+    "dec": 0.8240945449776134,
+    "mag": 5.600004333095436,
+    "temp": 8500,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_11_328",
+    "ra": 0.3280998475730257,
+    "dec": 0.7649071428734235,
+    "mag": 3.104638518344205,
+    "temp": 6500,
+    "brightness": 0.1895361481655795,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_12_1",
+    "ra": 0.0018281095538847602,
+    "dec": 0.7705704617757688,
+    "mag": 2.567730573982777,
+    "temp": 9500,
+    "brightness": 0.2432269426017223,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_13_336",
+    "ra": 0.33600204056554867,
+    "dec": 0.8056765849880103,
+    "mag": 2.995782451350993,
+    "temp": 6500,
+    "brightness": 0.2004217548649007,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_14_4",
+    "ra": 0.004031677992426541,
+    "dec": 0.9402315544714995,
+    "mag": 2.5459667252740203,
+    "temp": 8500,
+    "brightness": 0.24540332747259797,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_15_249",
+    "ra": 0.24939492203972255,
+    "dec": 0.9436692973176125,
+    "mag": 3.3282509881464932,
+    "temp": 8500,
+    "brightness": 0.16717490118535067,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_16_34",
+    "ra": 0.03452473354448123,
+    "dec": 0.8204486455877511,
+    "mag": 1.4641357439779505,
+    "temp": 4500,
+    "brightness": 0.35358642560220493,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_17_17",
+    "ra": 0.0178558710692155,
+    "dec": 0.8896977794024772,
+    "mag": 3.5447299398267327,
+    "temp": 6500,
+    "brightness": 0.14552700601732674,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_18_261",
+    "ra": 0.26178903930780084,
+    "dec": 0.9859976213858798,
+    "mag": 2.054506296258762,
+    "temp": 18000,
+    "brightness": 0.2945493703741238,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_19_57",
+    "ra": 0.05753606661427527,
+    "dec": 0.9322397881731646,
+    "mag": 0.5540515954412353,
+    "temp": 7500,
+    "brightness": 0.4445948404558765,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_20_216",
+    "ra": 0.21690259945354037,
+    "dec": 0.8444173639944437,
+    "mag": 4.416224925545309,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_21_198",
+    "ra": 0.19866203086006248,
+    "dec": 0.8279469781222759,
+    "mag": 3.614080026170312,
+    "temp": 3900,
+    "brightness": 0.1385919973829688,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_22_274",
+    "ra": 0.27438403291754476,
+    "dec": 0.7552943948633186,
+    "mag": 3.7956642613722162,
+    "temp": 5300,
+    "brightness": 0.12043357386277838,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_23_345",
+    "ra": 0.3453331175510236,
+    "dec": 0.8032357126232843,
+    "mag": 3.7250924284473306,
+    "temp": 7500,
+    "brightness": 0.12749075715526695,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_24_349",
+    "ra": 0.34978087496421795,
+    "dec": 0.9438279499172305,
+    "mag": 4.9974626325961715,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_25_4",
+    "ra": 0.004626967883602356,
+    "dec": 0.7676573470762877,
+    "mag": 3.099091395309256,
+    "temp": 8500,
+    "brightness": 0.1900908604690744,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_26_306",
+    "ra": 0.30600662133453144,
+    "dec": 0.9818291355386574,
+    "mag": 2.2485737844901266,
+    "temp": 15000,
+    "brightness": 0.27514262155098734,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_27_83",
+    "ra": 0.08367962614480234,
+    "dec": 0.8227797330390594,
+    "mag": 5.074546980148732,
+    "temp": 13000,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_28_204",
+    "ra": 0.20459605110906123,
+    "dec": 0.99649786340576,
+    "mag": 4.1405379963046505,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_29_250",
+    "ra": 0.2509845429261765,
+    "dec": 0.9920373049614222,
+    "mag": 2.177160677265052,
+    "temp": 9500,
+    "brightness": 0.2822839322734948,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_30_195",
+    "ra": 0.19523238088789438,
+    "dec": 0.7542252569007816,
+    "mag": 3.4775217958005507,
+    "temp": 3900,
+    "brightness": 0.15224782041994495,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_31_92",
+    "ra": 0.09206810765049718,
+    "dec": 0.7550964875440447,
+    "mag": 2.5641410345200675,
+    "temp": 15000,
+    "brightness": 0.24358589654799326,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Ursa Minor_Star_32_281",
+    "ra": 0.28195651785342807,
+    "dec": 0.8926219953456647,
+    "mag": 3.881786787053637,
+    "temp": 9500,
+    "brightness": 0.11182132129463632,
+    "constellation": "Ursa Minor"
+  },
+  {
+    "name": "Leo_Star_0_369",
+    "ra": 0.36936694260717223,
+    "dec": 0.5500168378952344,
+    "mag": 2.350681462205634,
+    "temp": 3900,
+    "brightness": 0.2649318537794366,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_1_387",
+    "ra": 0.3874631323636315,
+    "dec": 0.6497882225242179,
+    "mag": 5.182537133285676,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_2_397",
+    "ra": 0.39706623575208944,
+    "dec": 0.6064525678899586,
+    "mag": 6,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_3_412",
+    "ra": 0.4125512310567616,
+    "dec": 0.40979741685181303,
+    "mag": 3.919179097659228,
+    "temp": 6500,
+    "brightness": 0.1080820902340772,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_4_464",
+    "ra": 0.4643376413255411,
+    "dec": 0.6304340038839183,
+    "mag": 2.35648138494086,
+    "temp": 7500,
+    "brightness": 0.264351861505914,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_5_379",
+    "ra": 0.3792046911686956,
+    "dec": 0.4991044506486447,
+    "mag": 2.2077219989170827,
+    "temp": 3900,
+    "brightness": 0.27922780010829173,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_6_375",
+    "ra": 0.3757575255355787,
+    "dec": 0.45044407025698846,
+    "mag": 3.953790835265743,
+    "temp": 6500,
+    "brightness": 0.10462091647342571,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_7_498",
+    "ra": 0.49839113014174646,
+    "dec": 0.5391956144615242,
+    "mag": 3.2971445973000724,
+    "temp": 4500,
+    "brightness": 0.17028554026999276,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_8_454",
+    "ra": 0.45418913213605105,
+    "dec": 0.42788377373945263,
+    "mag": 2.6098047695704008,
+    "temp": 15000,
+    "brightness": 0.23901952304295992,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_9_402",
+    "ra": 0.4023107902219286,
+    "dec": 0.5365707046489602,
+    "mag": 3.6884103465171107,
+    "temp": 8500,
+    "brightness": 0.13115896534828891,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_10_424",
+    "ra": 0.4246107200859819,
+    "dec": 0.49371655573069917,
+    "mag": 3.6446046563914702,
+    "temp": 13000,
+    "brightness": 0.13553953436085298,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_11_442",
+    "ra": 0.44209463065039667,
+    "dec": 0.5198922294932765,
+    "mag": 2.91190979616728,
+    "temp": 11000,
+    "brightness": 0.20880902038327198,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_12_466",
+    "ra": 0.4660155307193951,
+    "dec": 0.5846435387178566,
+    "mag": 4.392760648134669,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_13_493",
+    "ra": 0.4931096688048966,
+    "dec": 0.4329499414773909,
+    "mag": 3.398073436087168,
+    "temp": 13000,
+    "brightness": 0.16019265639128322,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_14_368",
+    "ra": 0.36821409343274436,
+    "dec": 0.45026448667389785,
+    "mag": 4.918148616128496,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_15_434",
+    "ra": 0.43414677737121915,
+    "dec": 0.6280833894708411,
+    "mag": 3.682187475124829,
+    "temp": 5300,
+    "brightness": 0.1317812524875171,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_16_468",
+    "ra": 0.4682040095700837,
+    "dec": 0.5103508804157632,
+    "mag": 3.340545073745266,
+    "temp": 11000,
+    "brightness": 0.1659454926254734,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_17_430",
+    "ra": 0.43046938358301257,
+    "dec": 0.5811472237762572,
+    "mag": 6,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_18_362",
+    "ra": 0.3622219994904013,
+    "dec": 0.4581735499859898,
+    "mag": 4.42555428489133,
+    "temp": 7500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_19_387",
+    "ra": 0.38729347125242164,
+    "dec": 0.6279298990172663,
+    "mag": 3.658752146022884,
+    "temp": 3900,
+    "brightness": 0.1341247853977116,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_20_428",
+    "ra": 0.42852018379593204,
+    "dec": 0.6349965439014462,
+    "mag": 2.8325033919747566,
+    "temp": 3500,
+    "brightness": 0.21674966080252434,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_21_365",
+    "ra": 0.36555836647252204,
+    "dec": 0.6323671989782573,
+    "mag": 5.195118717164027,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_22_465",
+    "ra": 0.4653811026133534,
+    "dec": 0.49630603635976545,
+    "mag": 6,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_23_493",
+    "ra": 0.49376573606061325,
+    "dec": 0.48915728081710874,
+    "mag": 4.5986477647840935,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_24_434",
+    "ra": 0.43483345752214325,
+    "dec": 0.4953028634395846,
+    "mag": 4.267569393094651,
+    "temp": 6500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_25_385",
+    "ra": 0.38593493667666684,
+    "dec": 0.4287598902456735,
+    "mag": 2.6265671505259083,
+    "temp": 18000,
+    "brightness": 0.23734328494740917,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_26_392",
+    "ra": 0.3922771553724705,
+    "dec": 0.5534482069333918,
+    "mag": 5.957971760154944,
+    "temp": 11000,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_27_450",
+    "ra": 0.45033310478388017,
+    "dec": 0.4349252540649712,
+    "mag": 5.185905108473273,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_28_397",
+    "ra": 0.3973815441887688,
+    "dec": 0.6357220988171154,
+    "mag": 6,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Leo_Star_29_421",
+    "ra": 0.42193918033187267,
+    "dec": 0.4972729312057571,
+    "mag": 1.850334728603686,
+    "temp": 3900,
+    "brightness": 0.3149665271396314,
+    "constellation": "Leo"
+  },
+  {
+    "name": "Virgo_Star_0_509",
+    "ra": 0.5092145872125444,
+    "dec": 0.44509382324307034,
+    "mag": 5.095030350045728,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_1_589",
+    "ra": 0.589237172144112,
+    "dec": 0.41127571822876746,
+    "mag": 4.588248476820789,
+    "temp": 3900,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_2_545",
+    "ra": 0.545947864518923,
+    "dec": 0.5255441434030399,
+    "mag": 3.744787662463695,
+    "temp": 9500,
+    "brightness": 0.1255212337536305,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_3_630",
+    "ra": 0.6303104059372296,
+    "dec": 0.3960517074657418,
+    "mag": 0.8396029669300087,
+    "temp": 13000,
+    "brightness": 0.4160397033069991,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_4_521",
+    "ra": 0.5213978030001744,
+    "dec": 0.5022162104338674,
+    "mag": 5.412755675456488,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_5_586",
+    "ra": 0.5863702601377867,
+    "dec": 0.545066524119599,
+    "mag": 5.2162205532248045,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_6_595",
+    "ra": 0.5953483838892187,
+    "dec": 0.42917862302645515,
+    "mag": 3.2229093513721754,
+    "temp": 3900,
+    "brightness": 0.17770906486278246,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_7_527",
+    "ra": 0.5274519244942536,
+    "dec": 0.43048850906208674,
+    "mag": 3.67159303728976,
+    "temp": 25000,
+    "brightness": 0.13284069627102402,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_8_602",
+    "ra": 0.6029514175619948,
+    "dec": 0.46135822534261006,
+    "mag": 5.907475914275599,
+    "temp": 5300,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_9_537",
+    "ra": 0.537410113609748,
+    "dec": 0.4594028775859056,
+    "mag": 3.7900088807561634,
+    "temp": 7500,
+    "brightness": 0.12099911192438366,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_10_533",
+    "ra": 0.5333727549847089,
+    "dec": 0.3780380247574721,
+    "mag": 4.5364107169545695,
+    "temp": 15000,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_11_609",
+    "ra": 0.6098296930797632,
+    "dec": 0.38850273207423547,
+    "mag": 4.364229308729972,
+    "temp": 4500,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_12_558",
+    "ra": 0.5580331861891008,
+    "dec": 0.35864211491072784,
+    "mag": 4.531129582755572,
+    "temp": 3500,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_13_556",
+    "ra": 0.556220553802875,
+    "dec": 0.4555912408959349,
+    "mag": 4.756180358520023,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_14_522",
+    "ra": 0.5227655987861118,
+    "dec": 0.36311127760096895,
+    "mag": 3.96753624212439,
+    "temp": 7500,
+    "brightness": 0.10324637578756102,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_15_567",
+    "ra": 0.5674175859858169,
+    "dec": 0.509568739758542,
+    "mag": 3.9824736076509817,
+    "temp": 6500,
+    "brightness": 0.10175263923490183,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_16_531",
+    "ra": 0.5312681045224087,
+    "dec": 0.5143141893375012,
+    "mag": 4.269998770432261,
+    "temp": 9500,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_17_558",
+    "ra": 0.5588969929660846,
+    "dec": 0.3950073727324685,
+    "mag": 1.8443168702123511,
+    "temp": 7500,
+    "brightness": 0.31556831297876486,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_18_537",
+    "ra": 0.5373137540684593,
+    "dec": 0.5190946019776728,
+    "mag": 2.024021273842758,
+    "temp": 3500,
+    "brightness": 0.2975978726157242,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_19_524",
+    "ra": 0.524451305233549,
+    "dec": 0.5089097203542061,
+    "mag": 1.5927272194922375,
+    "temp": 25000,
+    "brightness": 0.34072727805077624,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_20_584",
+    "ra": 0.5842379423414362,
+    "dec": 0.5115277948854372,
+    "mag": 0,
+    "temp": 18000,
+    "brightness": 0.5,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_21_548",
+    "ra": 0.5486379037123013,
+    "dec": 0.5050976905370331,
+    "mag": 3.733623853151406,
+    "temp": 11000,
+    "brightness": 0.1266376146848594,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_22_502",
+    "ra": 0.5027599091336425,
+    "dec": 0.3645476738857436,
+    "mag": 2.3242981989129636,
+    "temp": 11000,
+    "brightness": 0.26757018010870365,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_23_543",
+    "ra": 0.5437003540830762,
+    "dec": 0.39043397498128063,
+    "mag": 5.2142579832336935,
+    "temp": 25000,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_24_544",
+    "ra": 0.5442898828572398,
+    "dec": 0.5373909497212477,
+    "mag": 3.2759551156766,
+    "temp": 6500,
+    "brightness": 0.17240448843234,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_25_504",
+    "ra": 0.5041527318847949,
+    "dec": 0.5176908509810075,
+    "mag": 4.645172845027137,
+    "temp": 18000,
+    "brightness": 0.1,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_26_631",
+    "ra": 0.631784016794096,
+    "dec": 0.3868221944656932,
+    "mag": 3.5628383310801164,
+    "temp": 11000,
+    "brightness": 0.14371616689198835,
+    "constellation": "Virgo"
+  },
+  {
+    "name": "Virgo_Star_27_529",
+    "ra": 0.5294094734778402,
+    "dec": 0.3534990193182403,
+    "mag": 2.061875874655044,
+    "temp": 6500,
+    "brightness": 0.2938124125344956,
+    "constellation": "Virgo"
+  }
+]

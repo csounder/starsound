@@ -1,0 +1,22 @@
+[
+  { "name": "Alpha Centauri A", "ra": 14.661, "dec": -60.835, "mag": -0.01, "temp": 5790 },
+  { "name": "Barnard's Star", "ra": 17.963, "dec": 4.693, "mag": 9.54, "temp": 3134 },
+  { "name": "Wolf 359", "ra": 10.933, "dec": 7.007, "mag": 13.53, "temp": 2800 },
+  { "name": "Lalande 21185", "ra": 11.054, "dec": 35.966, "mag": 7.52, "temp": 3828 },
+  { "name": "Sirius", "ra": 6.752, "dec": -16.716, "mag": -1.46, "temp": 9940 },
+  { "name": "Luyten 726-8", "ra": 1.627, "dec": -17.949, "mag": 12.61, "temp": 2670 },
+  { "name": "Ross 154", "ra": 18.829, "dec": -23.815, "mag": 10.44, "temp": 3340 },
+  { "name": "Ross 248", "ra": 23.698, "dec": 44.167, "mag": 12.29, "temp": 2799 },
+  { "name": "Epsilon Eridani", "ra": 3.549, "dec": -9.458, "mag": 3.73, "temp": 5084 },
+  { "name": "Lacaille 9352", "ra": 23.095, "dec": -35.863, "mag": 7.34, "temp": 3626 },
+  { "name": "Ross 128", "ra": 11.792, "dec": 0.804, "mag": 11.13, "temp": 3192 },
+  { "name": "EZ Aquarii", "ra": 22.628, "dec": -15.283, "mag": 13.03, "temp": 3100 },
+  { "name": "Procyon", "ra": 7.655, "dec": 5.225, "mag": 0.34, "temp": 6530 },
+  { "name": "61 Cygni", "ra": 21.115, "dec": 38.745, "mag": 5.21, "temp": 4526 },
+  { "name": "Struve 2398", "ra": 18.743, "dec": 59.378, "mag": 8.9, "temp": 3517 },
+  { "name": "Groombridge 34", "ra": 0.3, "dec": 44.011, "mag": 8.08, "temp": 3620 },
+  { "name": "Epsilon Indi", "ra": 22.06, "dec": -56.783, "mag": 4.69, "temp": 4280 },
+  { "name": "Tau Ceti", "ra": 1.736, "dec": -15.937, "mag": 3.5, "temp": 5344 },
+  { "name": "Altair", "ra": 19.846, "dec": 8.868, "mag": 0.77, "temp": 7550 },
+  { "name": "Vega", "ra": 18.615, "dec": 38.783, "mag": 0.03, "temp": 9602 }
+]

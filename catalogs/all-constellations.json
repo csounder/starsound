@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Sirius",
+    "ra": 0.2813333333333333,
+    "dec": 0.4071333333333333,
+    "mag": -1.46,
+    "temp": 9940,
+    "brightness": 0.646
+  },
+  {
+    "name": "Canopus",
+    "ra": 0.266625,
+    "dec": 0.20724444444444445,
+    "mag": -0.74,
+    "temp": 7350,
+    "brightness": 0.5740000000000001
+  },
+  {
+    "name": "Arcturus",
+    "ra": 0.5942083333333333,
+    "dec": 0.6065666666666667,
+    "mag": -0.05,
+    "temp": 4290,
+    "brightness": 0.505
+  },
+  {
+    "name": "Alpha Centauri A",
+    "ra": 0.610875,
+    "dec": 0.16202777777777777,
+    "mag": -0.01,
+    "temp": 5790,
+    "brightness": 0.501
+  },
+  {
+    "name": "Vega",
+    "ra": 0.7756249999999999,
+    "dec": 0.7154611111111112,
+    "mag": 0.03,
+    "temp": 9602,
+    "brightness": 0.497
+  },
+  {
+    "name": "Capella",
+    "ra": 0.21991666666666665,
+    "dec": 0.7555444444444444,
+    "mag": 0.08,
+    "temp": 5220,
+    "brightness": 0.492
+  },
+  {
+    "name": "Rigel",
+    "ra": 0.21841666666666668,
+    "dec": 0.45443333333333336,
+    "mag": 0.13,
+    "temp": 11000,
+    "brightness": 0.487
+  },
+  {
+    "name": "Procyon",
+    "ra": 0.31895833333333334,
+    "dec": 0.5290277777777778,
+    "mag": 0.34,
+    "temp": 6530,
+    "brightness": 0.466
+  },
+  {
+    "name": "Betelgeuse",
+    "ra": 0.24662499999999998,
+    "dec": 0.54115,
+    "mag": 0.5,
+    "temp": 3500,
+    "brightness": 0.45
+  },
+  {
+    "name": "Achernar",
+    "ra": 0.067875,
+    "dec": 0.18201666666666666,
+    "mag": 0.46,
+    "temp": 15000,
+    "brightness": 0.454
+  },
+  {
+    "name": "Hadar",
+    "ra": 0.5859583333333334,
+    "dec": 0.16459444444444446,
+    "mag": 0.61,
+    "temp": 25000,
+    "brightness": 0.43899999999999995
+  },
+  {
+    "name": "Altair",
+    "ra": 0.8269166666666666,
+    "dec": 0.5492666666666667,
+    "mag": 0.77,
+    "temp": 7550,
+    "brightness": 0.42300000000000004
+  },
+  {
+    "name": "Aldebaran",
+    "ra": 0.19162500000000002,
+    "dec": 0.5917166666666667,
+    "mag": 0.85,
+    "temp": 3910,
+    "brightness": 0.41500000000000004
+  },
+  {
+    "name": "Antares",
+    "ra": 0.6870833333333333,
+    "dec": 0.35315555555555556,
+    "mag": 0.96,
+    "temp": 3570,
+    "brightness": 0.404
+  },
+  {
+    "name": "Spica",
+    "ra": 0.5591666666666667,
+    "dec": 0.43799444444444446,
+    "mag": 0.98,
+    "temp": 22400,
+    "brightness": 0.40199999999999997
+  },
+  {
+    "name": "Pollux",
+    "ra": 0.323125,
+    "dec": 0.6557,
+    "mag": 1.14,
+    "temp": 4666,
+    "brightness": 0.386
+  },
+  {
+    "name": "Fomalhaut",
+    "ra": 0.9567083333333333,
+    "dec": 0.33543333333333336,
+    "mag": 1.16,
+    "temp": 8590,
+    "brightness": 0.384
+  },
+  {
+    "name": "Deneb",
+    "ra": 0.8620833333333334,
+    "dec": 0.7515555555555555,
+    "mag": 1.25,
+    "temp": 8525,
+    "brightness": 0.375
+  },
+  {
+    "name": "Mimosa",
+    "ra": 0.5330833333333334,
+    "dec": 0.16839444444444446,
+    "mag": 1.25,
+    "temp": 24000,
+    "brightness": 0.375
+  },
+  {
+    "name": "Regulus",
+    "ra": 0.4224583333333333,
+    "dec": 0.5664833333333333,
+    "mag": 1.35,
+    "temp": 12460,
+    "brightness": 0.365
+  },
+  {
+    "name": "Mirfak",
+    "ra": 0.141875,
+    "dec": 0.7770055555555555,
+    "mag": 1.79,
+    "temp": 6350,
+    "constellation": "Perseus",
+    "brightness": 0.321
+  },
+  {
+    "name": "Algol",
+    "ra": 0.13029166666666667,
+    "dec": 0.7275277777777777,
+    "mag": 2.1,
+    "temp": 12000,
+    "constellation": "Perseus",
+    "brightness": 0.29
+  },
+  {
+    "name": "Elnath",
+    "ra": 0.22658333333333333,
+    "dec": 0.6589277777777778,
+    "mag": 1.65,
+    "temp": 13600,
+    "constellation": "Taurus",
+    "brightness": 0.335
+  },
+  {
+    "name": "Castor",
+    "ra": 0.3157083333333333,
+    "dec": 0.6771555555555556,
+    "mag": 1.58,
+    "temp": 10286,
+    "constellation": "Gemini",
+    "brightness": 0.34199999999999997
+  },
+  {
+    "name": "Acubens",
+    "ra": 0.36083333333333334,
+    "dec": 0.5658888888888889,
+    "mag": 4.3,
+    "temp": 10000,
+    "constellation": "Cancer",
+    "brightness": 0.07000000000000002
+  },
+  {
+    "name": "Denebola",
+    "ra": 0.49241666666666667,
+    "dec": 0.5809555555555556,
+    "mag": 2.14,
+    "temp": 8200,
+    "constellation": "Leo",
+    "brightness": 0.286
+  },
+  {
+    "name": "Zubenelschamali",
+    "ra": 0.6367916666666666,
+    "dec": 0.44787777777777776,
+    "mag": 2.61,
+    "temp": 12000,
+    "constellation": "Libra",
+    "brightness": 0.23900000000000002
+  },
+  {
+    "name": "Shaula",
+    "ra": 0.7316666666666666,
+    "dec": 0.29386666666666666,
+    "mag": 1.63,
+    "temp": 25000,
+    "constellation": "Scorpius",
+    "brightness": 0.337
+  },
+  {
+    "name": "Kaus Australis",
+    "ra": 0.7667916666666666,
+    "dec": 0.30897222222222226,
+    "mag": 1.85,
+    "temp": 9913,
+    "constellation": "Sagittarius",
+    "brightness": 0.315
+  },
+  {
+    "name": "Deneb Algedi",
+    "ra": 0.9069583333333333,
+    "dec": 0.4104055555555556,
+    "mag": 2.81,
+    "temp": 5100,
+    "constellation": "Capricornus",
+    "brightness": 0.219
+  },
+  {
+    "name": "Sadalmelik",
+    "ra": 0.9207083333333334,
+    "dec": 0.49822222222222223,
+    "mag": 2.94,
+    "temp": 7410,
+    "constellation": "Aquarius",
+    "brightness": 0.20600000000000002
+  },
+  {
+    "name": "Alrescha",
+    "ra": 0.08429166666666667,
+    "dec": 0.5153555555555556,
+    "mag": 3.62,
+    "temp": 8750,
+    "constellation": "Pisces",
+    "brightness": 0.13799999999999998
+  },
+  {
+    "name": "Hamal",
+    "ra": 0.08829166666666667,
+    "dec": 0.6303444444444445,
+    "mag": 2.0,
+    "temp": 4480,
+    "constellation": "Aries",
+    "brightness": 0.3
+  },
+  {
+    "name": "Diphda",
+    "ra": 0.03025,
+    "dec": 0.4000722222222223,
+    "mag": 2.04,
+    "temp": 4797,
+    "constellation": "Cetus",
+    "brightness": 0.296
+  },
+  {
+    "name": "Polaris",
+    "ra": 0.10541666666666666,
+    "dec": 0.9959111111111112,
+    "mag": 1.98,
+    "temp": 6015,
+    "constellation": "Ursa Minor",
+    "brightness": 0.302
+  },
+  {
+    "name": "Dubhe",
+    "ra": 0.46091666666666664,
+    "dec": 0.8430611111111111,
+    "mag": 1.79,
+    "temp": 4660,
+    "constellation": "Ursa Major",
+    "brightness": 0.321
+  },
+  {
+    "name": "Merak",
+    "ra": 0.459625,
+    "dec": 0.813238888888889,
+    "mag": 2.37,
+    "temp": 10000,
+    "constellation": "Ursa Major",
+    "brightness": 0.263
+  },
+  {
+    "name": "Alkaid",
+    "ra": 0.5746666666666667,
+    "dec": 0.7739611111111111,
+    "mag": 1.86,
+    "temp": 15540,
+    "constellation": "Ursa Major",
+    "brightness": 0.31399999999999995
+  },
+  {
+    "name": "Alioth",
+    "ra": 0.5375,
+    "dec": 0.8108888888888889,
+    "mag": 1.76,
+    "temp": 9340,
+    "constellation": "Ursa Major",
+    "brightness": 0.324
+  },
+  {
+    "name": "Mizar",
+    "ra": 0.55825,
+    "dec": 0.805138888888889,
+    "mag": 2.09,
+    "temp": 9000,
+    "constellation": "Ursa Major",
+    "brightness": 0.29100000000000004
+  },
+  {
+    "name": "Schedar",
+    "ra": 0.028125,
+    "dec": 0.8140944444444445,
+    "mag": 2.24,
+    "temp": 5000,
+    "constellation": "Cassiopeia",
+    "brightness": 0.27599999999999997
+  },
+  {
+    "name": "Caph",
+    "ra": 0.09608333333333334,
+    "dec": 0.8286111111111112,
+    "mag": 2.3,
+    "temp": 6300,
+    "constellation": "Cassiopeia",
+    "brightness": 0.27
+  },
+  {
+    "name": "Alhena",
+    "ra": 0.27616666666666667,
+    "dec": 0.5911055555555556,
+    "mag": 1.93,
+    "temp": 9260,
+    "constellation": "Gemini",
+    "brightness": 0.30700000000000005
+  },
+  {
+    "name": "Miaplacidus",
+    "ra": 0.3842083333333333,
+    "dec": 0.11268333333333334,
+    "mag": 1.68,
+    "temp": 8866,
+    "constellation": "Carina",
+    "brightness": 0.332
+  },
+  {
+    "name": "Avior",
+    "ra": 0.3489583333333333,
+    "dec": 0.16939444444444443,
+    "mag": 1.86,
+    "temp": 4050,
+    "constellation": "Carina",
+    "brightness": 0.31399999999999995
+  },
+  {
+    "name": "Acrux",
+    "ra": 0.5184583333333334,
+    "dec": 0.14945000000000003,
+    "mag": 0.77,
+    "temp": 28000,
+    "constellation": "Crux",
+    "brightness": 0.42300000000000004
+  },
+  {
+    "name": "Atria",
+    "ra": 0.7004583333333333,
+    "dec": 0.11651111111111108,
+    "mag": 1.91,
+    "temp": 4150,
+    "constellation": "Triangulum Australe",
+    "brightness": 0.309
+  },
+  {
+    "name": "Peacock",
+    "ra": 0.8511666666666667,
+    "dec": 0.18480555555555556,
+    "mag": 1.94,
+    "temp": 17200,
+    "constellation": "Pavo",
+    "brightness": 0.306
+  },
+  {
+    "name": "Alnair",
+    "ra": 0.9223750000000001,
+    "dec": 0.23910555555555557,
+    "mag": 1.74,
+    "temp": 13920,
+    "constellation": "Grus",
+    "brightness": 0.32599999999999996
+  }
+]

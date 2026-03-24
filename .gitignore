@@ -1,0 +1,19 @@
+# Archive folder (old backups)
+_archive/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
